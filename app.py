@@ -154,7 +154,7 @@ fig_dist = go.Figure()
 for group, color in zip(['K', 'Ü', 'E'], ['#1A237E', '#E74C3C', '#3498DB']):
     scores = [dist_data[y][['K','Ü','E'].index(group)] for y in df['Yetkinlik']]
     fig_dist.add_trace(go.Scatter(x=scores, y=df['Yetkinlik'], mode='markers+text', name=group, text=[group for _ in scores], marker=dict(size=22, color=color)))
-fig_dist.update_layout(xaxis=dict(range=[1, 5]), height=380, width=700, margin=dict(l=100, r=20), plot_bgcolor='white')
+fig_dist.update_layout(xaxis=dict(range=[1, 5]), height=380, width=700, margin=dict(l=100, r=20), plot_bgcolor="#dfdddd")
 st.plotly_chart(fig_dist, use_container_width=False)
 
 # 8. ÖNERİLER
