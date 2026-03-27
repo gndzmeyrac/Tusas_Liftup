@@ -1,16 +1,14 @@
-# React + Vite
+🚀 Projeyi Kendi Bilgisayarınızda ÇalıştırınBu proje React (Vite) ve Python (Veri İşleme/Analiz) kullanılarak geliştirilmiştir. Projeyi sorunsuz bir şekilde çalıştırmak için aşağıdaki adımları sırasıyla takip edin.1. Ön Gereksinimlerin KontrolüTerminalinizi (VS Code içinde Ctrl + J) açın ve sisteminizde gerekli araçların olup olmadığını kontrol edin:AraçKontrol KomutuGerekli Sürüm (Önerilen)Node.jsnode -vv18.0.0+npmnpm -vv9.0.0+Pythonpython --versionv3.10+Not: Eğer komutu yazdığınızda hata alıyorsanız o araç yüklü değildir.2. Eksik Araçların KurulumuEğer yukarıdaki araçlar yüklü değilse:Node.js: nodejs.org adresinden "LTS" sürümünü indirin.Python: python.org adresinden indirin. (Kurulumda "Add Python to PATH" kutucuğunu işaretlemeyi unutmayın!)3. Projeyi Kurma ve ÇalıştırmaAşağıdaki komutları sırasıyla terminale yapıştırın:A. Frontend (Arayüz) KurulumuBash# Gerekli paketleri yükleyin
+npm install
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Projeyi lokal sunucuda başlatın
+npm run dev
+Terminalde çıkan http://localhost:5173 bağlantısına tıklayarak arayüzü görüntüleyebilirsiniz.B. Backend / Python Ortamı KurulumuPython dosyalarını çalıştırmadan önce temiz bir ortam oluşturun:Bash# Sanal ortam oluşturun (Klasör adı .venv olur)
+python -m venv .venv
 
-Currently, two official plugins are available:
+# Sanal ortamı aktif edin (Windows için)
+.venv\Scripts\activate
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Gerekli kütüphaneleri yükleyin
+pip install -r requirements.txt
+🛠 Kullanılan TeknolojilerFrontend: React, Tailwind CSS, ViteVeri Görselleştirme: Plotly, RechartsBackend/Data: Python, Pandas💡 İpucu: VS Code EklentileriDaha iyi bir geliştirme deneyimi için şu eklentileri kurmanızı öneririm:ESLint (Kod standartları için)Tailwind CSS IntelliSense (Tasarım için)Python (Microsoft resmi eklentisi)
