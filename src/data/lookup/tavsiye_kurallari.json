@@ -1,0 +1,155 @@
+{
+  "acik_iletisim_ve_bilgi_paylasimi": {
+    "genel_tavsiye": "İletişim, sadece konuşmak değil, doğru anlaşılmaktır. Mesajlarınızın netliğini ve akışını genel olarak gözden geçirin.",
+    "alt_kirilimlar": {
+      "iletisim_q1_dinleme": {
+        "etiket": "Aktif Dinleme",
+        "tavsiye": "Karşı taraf konuşurken cevabı kurgulamak yerine anlamaya odaklanın. 'Aktif Dinleme' ve not alma tekniklerini uygulayın."
+      },
+      "iletisim_q2_sunum": {
+        "etiket": "Sunum Becerileri",
+        "tavsiye": "Topluluk önünde konuşma pratiği yapın. Slayt hazırlarken 'Az Metin, Çok Görsel' kuralına uyun ve beden dili eğitiminizi tazeleyin."
+      },
+      "iletisim_q3_yazili": {
+        "etiket": "Yazılı İletişim",
+        "tavsiye": "E-posta ve raporlarınızda 'Giriş-Gelişme-Sonuç' yapısını kurun. Göndermeden önce mutlaka 'alıcı gözüyle' bir kez okuyun."
+      }
+    }
+  },
+  "problem_cozme_ve_analitik_dusunme": {
+    "genel_tavsiye": "Veri odaklı karar alma süreçlerini benimseyin. Hissiyat yerine sayılarla konuşmaya özen gösterin.",
+    "alt_kirilimlar": {
+      "analitik_q1_kriz_yonetimi": {
+        "etiket": "Kriz Yönetimi",
+        "tavsiye": "Kriz anlarında 'Panik' yerine 'Prosedür' moduna geçin. Acil durum senaryoları üzerine zihinsel pratik yapın."
+      },
+      "analitik_q2_veri_odaklilik": {
+        "etiket": "Veri Odaklılık",
+        "tavsiye": "Kararlarınızı desteklemek için Excel Pivot, PowerBI gibi veri görselleştirme araçlarını daha etkin kullanmayı öğrenin."
+      },
+      "analitik_q3_kok_neden": {
+        "etiket": "Kök Neden Analizi",
+        "tavsiye": "Sorunların sadece semptomlarını değil, kaynağını çözün. '5 Neden' (5 Whys) ve 'Balık Kılçığı' tekniklerini uygulayın."
+      }
+    }
+  },
+  "teknik_uzmanlik_ve_alan_bilgisi": {
+    "genel_tavsiye": "Teknolojiyi takip eden değil, yönlendiren olmak için sürekli öğrenme prensibini benimseyin.",
+    "alt_kirilimlar": {
+      "teknik_q1_cekirdek_beceri": {
+        "etiket": "Çekirdek Yetkinlik",
+        "tavsiye": "Mesleğinizin temeli olan teknik bilgi (Kodlama, Tasarım, Operasyon vb.) için 'Derinlemesine Uzmanlık' eğitimlerine odaklanın."
+      },
+      "teknik_q2_arac_hakimiyeti": {
+        "etiket": "Araç Hakimiyeti",
+        "tavsiye": "Kullandığınız mühendislik ve ofis araçlarının (IDE, SAP, CAD) kısa yollarını ve ileri özelliklerini öğrenerek hız kazanın."
+      },
+      "teknik_q3_teknolojik_trendler": {
+        "etiket": "Teknoloji Takibi",
+        "tavsiye": "Sektörünüzdeki yeni teknolojileri takip etmek için makale okuyun ve ekibinizle 'Teknoloji Paylaşım Saati' yapın."
+      }
+    }
+  },
+  "yonetsel_cesaret_ve_karar_kalitesi": {
+    "genel_tavsiye": "Liderlik, zor kararları adil bir şekilde verebilme ve ekibi büyütebilme sanatıdır.",
+    "alt_kirilimlar": {
+      "yonetim_q1_delegasyon": {
+        "etiket": "Delegasyon",
+        "tavsiye": "Mikro-yönetimden kaçının. İşi verirken 'Neyi' istediğinizi söyleyin, 'Nasıl' yapılacağını uzmana bırakın."
+      },
+      "yonetim_q2_karar_alma": {
+        "etiket": "Karar Alma",
+        "tavsiye": "Belirsizlik durumlarında karar almaktan çekinmeyin. %70 bilgi ile harekete geçmek, %100 bilgiyi bekleyip geç kalmaktan iyidir."
+      },
+      "yonetim_q3_geri_bildirim": {
+        "etiket": "Geri Bildirim Kültürü",
+        "tavsiye": "Geri bildirim vermeyi 'yıllık' bir olay olmaktan çıkarın. 'Anlık ve Yapıcı' geri bildirim kültürünü benimseyin."
+      }
+    }
+  },
+  "isbirligi_ve_kapsayici_calisma": {
+    "genel_tavsiye": "Takım başarısı, bireysel başarıdan daha değerlidir. Siloları yıkın ve köprüler kurun.",
+    "alt_kirilimlar": {
+      "isbirligi_q1_yardimlasma": {
+        "etiket": "Yardımlaşma",
+        "tavsiye": "Kendi işiniz bitince 'Yardıma ihtiyacı olan var mı?' diye sormayı alışkanlık haline getirin."
+      },
+      "isbirligi_q2_kapsayicilik": {
+        "etiket": "Kapsayıcılık",
+        "tavsiye": "Toplantılarda sessiz kalan ekip arkadaşlarınıza isimleriyle hitap edip söz hakkı vererek farklı fikirleri masaya getirin."
+      },
+      "isbirligi_q3_catisma_cozumu": {
+        "etiket": "Çatışma Çözümü",
+        "tavsiye": "Fikir ayrılıklarında 'Kişiye' değil 'Probleme' odaklanın. Ortak hedefleri vurgulayarak uzlaşma zemini arayın."
+      }
+    }
+  },
+  "surec_ve_prosedur_disiplini": {
+    "genel_tavsiye": "Kalite, kurallara uymakla başlar. Standartlardan taviz vermeyin.",
+    "alt_kirilimlar": {
+      "surec_q1_dokumantasyon": {
+        "etiket": "Dokümantasyon",
+        "tavsiye": "Yaptığınız işi yazın, yazdığınız işi yapın. Dokümantasyon angarya değil, kurumsal hafızadır."
+      },
+      "surec_q2_uygulama_disiplini": {
+        "etiket": "Uygulama Disiplini",
+        "tavsiye": "Süreç adımlarını atlamayın. Hız uğruna emniyet veya kalite kontrol adımlarını bypass etmeyin."
+      },
+      "surec_q3_surec_iyilestirme": {
+        "etiket": "Süreç İyileştirme",
+        "tavsiye": "Sürekli 'Bunu daha iyi nasıl yaparız?' diye sorun. Yalın (Lean) üretim ve Kaizen prensiplerini inceleyin."
+      }
+    }
+  },
+  "emniyet_kalite_ve_risk_farkindaligi": {
+    "genel_tavsiye": "Önce emniyet. Riskleri görmezden gelmek, kazaya davetiye çıkarmaktır.",
+    "alt_kirilimlar": {
+      "emniyet_q1_risk_algisi": {
+        "etiket": "Risk Algısı",
+        "tavsiye": "Çalışma ortamındaki potansiyel tehlikeleri (Near-Miss) görmezden gelmeyin, derhal raporlayın."
+      },
+      "emniyet_q2_kalite_odagi": {
+        "etiket": "Kalite Odağı",
+        "tavsiye": "Yaptığınız işi 'İlk Seferde Doğru' (First Time Quality) yapmaya odaklanın, hata düzeltme maliyetini düşürün."
+      },
+      "emniyet_q3_is_guvenligi": {
+        "etiket": "İş Güvenliği",
+        "tavsiye": "KKD (Kişisel Koruyucu Donanım) kullanımı konusunda kendinize ve arkadaşlarınıza karşı tavizsiz olun."
+      }
+    }
+  },
+  "etik_durus_ve_mesleki_cesaret": {
+    "genel_tavsiye": "Doğru olanı yapmak, kimse bakmadığında bile dürüst olmaktır.",
+    "alt_kirilimlar": {
+      "etik_q1_kurumsal_uyum": {
+        "etiket": "Kurumsal Uyum",
+        "tavsiye": "Şirket etik kodlarını ve davranış kurallarını tekrar gözden geçirin, gri alanlarda mutlaka danışın."
+      },
+      "etik_q2_profesyonel_cesaret": {
+        "etiket": "Profesyonel Cesaret",
+        "tavsiye": "Yanlış veya etik dışı bir durum gördüğünüzde, profesyonel bir dille bunu dile getirme cesareti gösterin."
+      },
+      "etik_q3_adil_davranis": {
+        "etiket": "Adil Davranış",
+        "tavsiye": "Kararlarınızda kişisel yakınlıkların değil, objektif kriterlerin ve liyakatin rol oynadığından emin olun."
+      }
+    }
+  },
+  "stratejik_dusunme_ve_vizyon_olusturma": {
+    "genel_tavsiye": "Günü kurtarmak yerine geleceği tasarlamaya odaklanın.",
+    "alt_kirilimlar": {
+      "strateji_q1_vizyonerlik": {
+        "etiket": "Vizyonerlik",
+        "tavsiye": "Büyük resmi görmeye çalışın. Yaptığınız işin şirketin 5 yıllık hedeflerine nasıl katkı sağladığını analiz edin."
+      },
+      "strateji_q2_uzun_vadeli_planlama": {
+        "etiket": "Uzun Vadeli Planlama",
+        "tavsiye": "Günlük operasyonun içinde kaybolmayın, haftalık planınızda 'stratejik düşünme' ve 'gelecek planı' için zaman bloklayın."
+      },
+      "strateji_q3_inovasyon": {
+        "etiket": "İnovasyon",
+        "tavsiye": "Mevcut durumu kabullenmek yerine 'Neyi değiştirebiliriz?' diye sorun. İnovatif fikirlerinizi projelendirin."
+      }
+    }
+  }
+}

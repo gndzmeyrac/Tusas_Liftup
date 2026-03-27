@@ -1,0 +1,65 @@
+{
+  "acik_iletisim_ve_bilgi_paylasimi": {
+    "sorular": [
+      "Bilgiyi acik, net ve anlasilir sekilde iletir.",
+      "Kritik bilgileri dogru zamanda paylasir.",
+      "Karsisindakini etkin sekilde dinler."
+    ]
+  },
+  "problem_cozme_ve_analitik_dusunme": {
+    "sorular": [
+      "Karmasik durumlari analiz edip cozum onerileri sunar.",
+      "Veriyi kullanarak mantikli kararlar alir.",
+      "Sorunlari onceden tespit edip proaktif davranir."
+    ]
+  },
+  "teknik_uzmanlik_ve_alan_bilgisi": {
+    "sorular": [
+      "Gorevi icin gerekli teknik bilgilere hakimdir.",
+      "Yeni teknolojileri veya yontemleri ogrenir ve uygular.",
+      "Teknik sorunlari etkin sekilde cozer."
+    ]
+  },
+  "yonetsel_cesaret_ve_karar_kalitesi": {
+    "sorular": [
+      "Zor durumlarda net ve kararlı kararlar alir.",
+      "Karar alirken tum verileri ve etkileri goz onunde bulundurur.",
+      "Gerektiginde populer olmayan kararlar almaktan cekinmez."
+    ]
+  },
+  "isbirligi_ve_kapsayici_calisma": {
+    "sorular": [
+      "Farkli ekiplerle etkili sekilde isbirligi kurar.",
+      "Kapsayici ve destekleyici bir tutum sergiler.",
+      "Ekip icinde fikir alisverisine aciktir."
+    ]
+  },
+  "surec_ve_prosedur_disiplini": {
+    "sorular": [
+      "Prosedurlere ve is akislarina eksiksiz uyar.",
+      "Gerektiginde surec iyilestirme onerileri sunar.",
+      "Dokumantasyon ve kayit duzenine dikkat eder."
+    ]
+  },
+  "emniyet_kalite_ve_risk_farkindaligi": {
+    "sorular": [
+      "Emniyet ve kalite standartlarina tam uyum gosterir.",
+      "Riskleri zamaninda tespit edip raporlar.",
+      "Sahadaki prosedurlere disiplinle uyar."
+    ]
+  },
+  "etik_durus_ve_mesleki_cesaret": {
+    "sorular": [
+      "Etik kurallara bagli kalarak karar alir.",
+      "Uygun olmayan davranislara karsi net bir durus sergiler.",
+      "Baski altinda dogru olani savunur."
+    ]
+  },
+  "stratejik_dusunme_ve_vizyon_olusturma": {
+    "sorular": [
+      "Buyuk resmi gorerek kararlar alir.",
+      "Ekip hedeflerini kurum hedefleri ile hizalar.",
+      "Uzun vadeli etkileri hesaba katar."
+    ]
+  }
+}

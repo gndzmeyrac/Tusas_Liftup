@@ -1,0 +1,6602 @@
+[
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q3_yazili",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q3_yazili",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q3_yazili",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "2"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "2"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q3_teknolojik_trendler",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q3_teknolojik_trendler",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q3_teknolojik_trendler",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "1"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "2"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q3_geri_bildirim",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q3_geri_bildirim",
+    "score": "2"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q3_geri_bildirim",
+    "score": "2"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q2_kapsayicilik",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q2_kapsayicilik",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q2_kapsayicilik",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "2"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "2"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q3_surec_iyilestirme",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q3_surec_iyilestirme",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q3_surec_iyilestirme",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q2_profesyonel_cesaret",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q2_profesyonel_cesaret",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q2_profesyonel_cesaret",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q3_adil_davranis",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q3_adil_davranis",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q3_adil_davranis",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "2"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q2_uzun_vadeli_planlama",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q2_uzun_vadeli_planlama",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q2_uzun_vadeli_planlama",
+    "score": "3"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Ahmet Yöneticisi",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Elif Ekip",
+    "evaluator_group": "ekip",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "101",
+    "employee_name": "Burak Yılmaz",
+    "role": "Kıdemli Mühendis",
+    "evaluator_name": "Can Ast",
+    "evaluator_group": "ast",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "2"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "2"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q3_yazili",
+    "score": "2"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q3_yazili",
+    "score": "2"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "4"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "4"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "4"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "5"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "5"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q3_teknolojik_trendler",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q3_teknolojik_trendler",
+    "score": "2"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q3_geri_bildirim",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q3_geri_bildirim",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q2_kapsayicilik",
+    "score": "4"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q2_kapsayicilik",
+    "score": "4"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "4"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "4"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q3_surec_iyilestirme",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q3_surec_iyilestirme",
+    "score": "2"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "5"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "5"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "5"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "4"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "5"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "5"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q2_profesyonel_cesaret",
+    "score": "4"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q2_profesyonel_cesaret",
+    "score": "4"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q3_adil_davranis",
+    "score": "5"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q3_adil_davranis",
+    "score": "5"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "2"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q2_uzun_vadeli_planlama",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q2_uzun_vadeli_planlama",
+    "score": "2"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mustafa Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "202",
+    "employee_name": "Mehmet Demir",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Kemal Usta",
+    "evaluator_group": "yonetici2",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Ahmet Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "2"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "2"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Can Stajyer",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "1"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Ahmet Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "2"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "2"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Can Stajyer",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "1"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Ahmet Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "5"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "5"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Can Stajyer",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "5"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Ahmet Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "5"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "5"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Can Stajyer",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "5"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Ahmet Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Can Stajyer",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Ahmet Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "2"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "1"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Can Stajyer",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "2"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Ahmet Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "1"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "2"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Can Stajyer",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "1"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Ahmet Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Can Stajyer",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Ahmet Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "4"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Can Stajyer",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "4"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Ahmet Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Can Stajyer",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Ahmet Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ekip",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Can Stajyer",
+    "evaluator_group": "ast",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Ahmet Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "3"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ekip",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "3"
+  },
+  {
+    "employee_id": "104",
+    "employee_name": "Zeynep Ateş",
+    "role": "Finans Analisti",
+    "evaluator_name": "Can Stajyer",
+    "evaluator_group": "ast",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "3"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Buse Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "5"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "5"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "5"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Buse Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "5"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "4"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "5"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Buse Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Buse Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "4"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "4"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "4"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Buse Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Buse Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "5"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "4"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "5"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Buse Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "1"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Buse Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "2"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "2"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "2"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Buse Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "3"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "3"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "3"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Buse Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q3_teknolojik_trendler",
+    "score": "2"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q3_teknolojik_trendler",
+    "score": "2"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q3_teknolojik_trendler",
+    "score": "3"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Buse Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "2"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "2"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "2"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Buse Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Buse Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "3"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "3"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "3"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Buse Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Buse Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "3"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "3"
+  },
+  {
+    "employee_id": "105",
+    "employee_name": "Murat Kaya",
+    "role": "Takım Lideri",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "3"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Fatma Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Can Asistan",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Fatma Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "4"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "4"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Can Asistan",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Fatma Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Can Asistan",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Fatma Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "4"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "4"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Can Asistan",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Fatma Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Can Asistan",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Fatma Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Can Asistan",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Fatma Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Can Asistan",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Fatma Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Can Asistan",
+    "evaluator_group": "ast",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Fatma Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "4"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "4"
+  },
+  {
+    "employee_id": "106",
+    "employee_name": "Elif Demir",
+    "role": "İK Uzmanı",
+    "evaluator_name": "Can Asistan",
+    "evaluator_group": "ast",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "5"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "3"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "3"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "2"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "2"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "4"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "4"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "3"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "3"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "5"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "5"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "4"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "4"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "5"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "5"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "5"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "5"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "204",
+    "employee_name": "İsmail Yılmaz",
+    "role": "Montaj Ustası",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "1"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Murat Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "2"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Deniz Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "2"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Murat Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "2"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Deniz Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "2"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Murat Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "2"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Deniz Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "1"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Murat Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "3"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Deniz Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "3"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Murat Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Deniz Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Murat Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "3"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Deniz Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "3"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Murat Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "2"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Deniz Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "2"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Murat Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "1"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Deniz Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "1"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Murat Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "1"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Deniz Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "1"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Murat Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "3"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Deniz Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "3"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Murat Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "205",
+    "employee_name": "Cemil Öztürk",
+    "role": "Kalite Kontrolcü",
+    "evaluator_name": "Deniz Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "4"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "4"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "5"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "4"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "3"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "4"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "4"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "4"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "4"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "4"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "4"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "4"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "3"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "3"
+  },
+  {
+    "employee_id": "107",
+    "employee_name": "Berna Yılmaz",
+    "role": "Kıdemli Uzman",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "2"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "3"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "3"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "2"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "5"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "5"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "5"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "1"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "1"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "2"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "2"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "2"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "4"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "4"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "5"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Canan Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ozan Uzman",
+    "evaluator_group": "ekip",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "108",
+    "employee_name": "Deniz Aksoy",
+    "role": "Yazılım Mimarı",
+    "evaluator_name": "Ece Stajyer",
+    "evaluator_group": "ast",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "5"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Mert Müdür",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "5"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "5"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "3"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Mert Müdür",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "3"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "4"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q3_teknolojik_trendler",
+    "score": "4"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Mert Müdür",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q3_teknolojik_trendler",
+    "score": "4"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q3_teknolojik_trendler",
+    "score": "3"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "5"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Mert Müdür",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "4"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "5"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Mert Müdür",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "2"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Mert Müdür",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "2"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "2"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Mert Müdür",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "2"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Mert Müdür",
+    "evaluator_group": "ekip",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "2"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ast",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "3"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q2_uzun_vadeli_planlama",
+    "score": "4"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Mert Müdür",
+    "evaluator_group": "ekip",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q2_uzun_vadeli_planlama",
+    "score": "4"
+  },
+  {
+    "employee_id": "109",
+    "employee_name": "Selim Güçlü",
+    "role": "Satış Müdürü",
+    "evaluator_name": "Selin Uzman",
+    "evaluator_group": "ast",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q2_uzun_vadeli_planlama",
+    "score": "3"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "5"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "5"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Buse Stajyer",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "5"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "2"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "2"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Buse Stajyer",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "3"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "3"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "3"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Buse Stajyer",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "2"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "3"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "3"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Buse Stajyer",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "3"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Buse Stajyer",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Buse Stajyer",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "4"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "4"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Buse Stajyer",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "4"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Buse Stajyer",
+    "evaluator_group": "ast",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Derya Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "2"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "2"
+  },
+  {
+    "employee_id": "110",
+    "employee_name": "Esra Şen",
+    "role": "Pazarlama Uzmanı",
+    "evaluator_name": "Buse Stajyer",
+    "evaluator_group": "ast",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "2"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "4"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "4"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "3"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "3"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "4"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "4"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "4"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "4"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "5"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "5"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "206",
+    "employee_name": "Ahmet Demir",
+    "role": "Bakım Teknisyeni",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "3"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "3"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "3"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "2"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "5"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "5"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "3"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "3"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "2"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "2"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "2"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "2"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "1"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "1"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q2_profesyonel_cesaret",
+    "score": "3"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q2_profesyonel_cesaret",
+    "score": "3"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Serkan Amir",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "1"
+  },
+  {
+    "employee_id": "207",
+    "employee_name": "Mehmet Yıldız",
+    "role": "Forklift Operatörü",
+    "evaluator_name": "Hakan Vardiya Amiri",
+    "evaluator_group": "yonetici2",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "1"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Genel Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "5"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Elif Uzman",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "5"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Selin Stajyer",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "5"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Genel Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "2"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Elif Uzman",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "3"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Selin Stajyer",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "2"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Genel Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Elif Uzman",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Selin Stajyer",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Genel Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "4"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Elif Uzman",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "4"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Selin Stajyer",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "5"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Genel Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "3"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Elif Uzman",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "3"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Selin Stajyer",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "3"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Genel Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "4"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Elif Uzman",
+    "evaluator_group": "ekip",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "4"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Selin Stajyer",
+    "evaluator_group": "ast",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "4"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Genel Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Elif Uzman",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Selin Stajyer",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Genel Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Elif Uzman",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Selin Stajyer",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Genel Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Elif Uzman",
+    "evaluator_group": "ekip",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "111",
+    "employee_name": "Canan Yılmaz",
+    "role": "İK Müdürü",
+    "evaluator_name": "Selin Stajyer",
+    "evaluator_group": "ast",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Murat Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "2"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "2"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "1"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Murat Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Murat Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "5"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "5"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "5"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Murat Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "1"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "2"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "1"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Murat Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "1"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Murat Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Murat Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "5"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "5"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "5"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Murat Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Murat Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Ali Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "112",
+    "employee_name": "Ozan Demir",
+    "role": "Sistem Mühendisi",
+    "evaluator_name": "Veli Stajyer",
+    "evaluator_group": "ast",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Selin Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "4"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "4"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Oya Stajyer",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "3"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Selin Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "3"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "3"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Oya Stajyer",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "2"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Selin Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Oya Stajyer",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Selin Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "2"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "3"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Oya Stajyer",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "2"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Selin Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Oya Stajyer",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Selin Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "3"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "3"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Oya Stajyer",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q2_kalite_odagi",
+    "score": "3"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Selin Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "2"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "3"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Oya Stajyer",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "2"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Selin Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Oya Stajyer",
+    "evaluator_group": "ast",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Selin Müdür",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "2"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Mert Uzman",
+    "evaluator_group": "ekip",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "2"
+  },
+  {
+    "employee_id": "113",
+    "employee_name": "Ece Güneş",
+    "role": "Pazarlama Asistanı",
+    "evaluator_name": "Oya Stajyer",
+    "evaluator_group": "ast",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "2"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Tolga Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q3_yazili",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q3_yazili",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ali Stajyer",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q3_yazili",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Tolga Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ali Stajyer",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Tolga Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ali Stajyer",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "1"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Tolga Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "3"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "3"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ali Stajyer",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q3_catisma_cozumu",
+    "score": "2"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Tolga Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ali Stajyer",
+    "evaluator_group": "ast",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "1"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Tolga Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ali Stajyer",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Tolga Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ali Stajyer",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Tolga Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ali Stajyer",
+    "evaluator_group": "ast",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Tolga Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ayşe Uzman",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "5"
+  },
+  {
+    "employee_id": "114",
+    "employee_name": "Mert Çelik",
+    "role": "Finans Uzmanı",
+    "evaluator_name": "Ali Stajyer",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q2_veri_odaklilik",
+    "score": "5"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Kemal Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "5"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Buse Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "5"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Mert Stajyer",
+    "evaluator_group": "ast",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "5"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Kemal Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Buse Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Mert Stajyer",
+    "evaluator_group": "ast",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "1"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Kemal Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "5"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Buse Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "5"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Mert Stajyer",
+    "evaluator_group": "ast",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q2_sunum",
+    "score": "5"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Kemal Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "5"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Buse Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "5"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Mert Stajyer",
+    "evaluator_group": "ast",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "4"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Kemal Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q3_teknolojik_trendler",
+    "score": "5"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Buse Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q3_teknolojik_trendler",
+    "score": "5"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Mert Stajyer",
+    "evaluator_group": "ast",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q3_teknolojik_trendler",
+    "score": "5"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Kemal Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "4"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Buse Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "4"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Mert Stajyer",
+    "evaluator_group": "ast",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "4"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Kemal Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "4"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Buse Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "4"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Mert Stajyer",
+    "evaluator_group": "ast",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "4"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Kemal Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Buse Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Mert Stajyer",
+    "evaluator_group": "ast",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Kemal Direktör",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Buse Mühendis",
+    "evaluator_group": "ekip",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "115",
+    "employee_name": "Gizem Acar",
+    "role": "Ar-Ge Lideri",
+    "evaluator_name": "Mert Stajyer",
+    "evaluator_group": "ast",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "5"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "5"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "5"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "5"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "4"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "4"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "5"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q3_kok_neden",
+    "score": "4"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "208",
+    "employee_name": "Rıza Kaya",
+    "role": "Kaynak Ustası",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "2"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "1"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "3"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "2"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "4"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "4"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "4"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "4"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "5"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q2_arac_hakimiyeti",
+    "score": "5"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "3"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "3"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "3"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "3"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "3"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "3"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "2"
+  },
+  {
+    "employee_id": "209",
+    "employee_name": "Selim Koç",
+    "role": "Lojistik Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q1_vizyonerlik",
+    "score": "2"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "3"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "3"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "3"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q1_risk_algisi",
+    "score": "3"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "3"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "3"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "4"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "4"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "3"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "3"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "3"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "3"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "210",
+    "employee_name": "Vedat Şahin",
+    "role": "CNC Operatörü",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q1_delegasyon",
+    "score": "4"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "4"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "4"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "5"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q1_dokumantasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "4"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "4"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "4"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "4"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "211",
+    "employee_name": "Adem Yıldırım",
+    "role": "Bakım Şefi",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "4"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "2"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "teknik_uzmanlik_ve_alan_bilgisi",
+    "question_id": "teknik_q1_cekirdek_beceri",
+    "score": "2"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "4"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "acik_iletisim_ve_bilgi_paylasimi",
+    "question_id": "iletisim_q1_dinleme",
+    "score": "5"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "isbirligi_ve_kapsayici_calisma",
+    "question_id": "isbirligi_q1_yardimlasma",
+    "score": "5"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "etik_durus_ve_mesleki_cesaret",
+    "question_id": "etik_q1_kurumsal_uyum",
+    "score": "5"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "4"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "emniyet_kalite_ve_risk_farkindaligi",
+    "question_id": "emniyet_q3_is_guvenligi",
+    "score": "4"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "3"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "surec_ve_prosedur_disiplini",
+    "question_id": "surec_q2_uygulama_disiplini",
+    "score": "3"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "stratejik_dusunme_ve_vizyon_olusturma",
+    "question_id": "strateji_q3_inovasyon",
+    "score": "2"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "2"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "problem_cozme_ve_analitik_dusunme",
+    "question_id": "analitik_q1_kriz_yonetimi",
+    "score": "2"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Ahmet Şef",
+    "evaluator_group": "yonetici1",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "2"
+  },
+  {
+    "employee_id": "212",
+    "employee_name": "Burak Can",
+    "role": "Montaj Elemanı",
+    "evaluator_name": "Mehmet Vardiya",
+    "evaluator_group": "yonetici2",
+    "competency": "yonetsel_cesaret_ve_karar_kalitesi",
+    "question_id": "yonetim_q2_karar_alma",
+    "score": "2"
+  }
+]

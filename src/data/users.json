@@ -1,0 +1,170 @@
+[
+  {
+    "username": "admin",
+    "password": "123",
+    "role": "admin",
+    "employee_id": null,
+    "name": "Sistem Yöneticisi"
+  },
+  {
+    "username": "burak.yilmaz",
+    "password": "101",
+    "role": "user",
+    "employee_id": "101",
+    "name": "Burak Yılmaz"
+  },
+  {
+    "username": "mehmet.demir",
+    "password": "202",
+    "role": "user",
+    "employee_id": "202",
+    "name": "Mehmet Demir"
+  },
+  {
+    "username": "zeynep.ates",
+    "password": "104",
+    "role": "user",
+    "employee_id": "104",
+    "name": "Zeynep Ateş"
+  },
+  {
+    "username": "murat.kaya",
+    "password": "105",
+    "role": "user",
+    "employee_id": "105",
+    "name": "Murat Kaya"
+  },
+  {
+    "username": "elif.demir",
+    "password": "106",
+    "role": "user",
+    "employee_id": "106",
+    "name": "Elif Demir"
+  },
+  {
+    "username": "ismail.yilmaz",
+    "password": "204",
+    "role": "user",
+    "employee_id": "204",
+    "name": "İsmail Yılmaz"
+  },
+  {
+    "username": "cemil.ozturk",
+    "password": "205",
+    "role": "user",
+    "employee_id": "205",
+    "name": "Cemil Öztürk"
+  },
+  {
+    "username": "berna.yilmaz",
+    "password": "107",
+    "role": "user",
+    "employee_id": "107",
+    "name": "Berna Yılmaz"
+  },
+  {
+    "username": "deniz.aksoy",
+    "password": "108",
+    "role": "user",
+    "employee_id": "108",
+    "name": "Deniz Aksoy"
+  },
+  {
+    "username": "selim.guclu",
+    "password": "109",
+    "role": "user",
+    "employee_id": "109",
+    "name": "Selim Güçlü"
+  },
+  {
+    "username": "esra.sen",
+    "password": "110",
+    "role": "user",
+    "employee_id": "110",
+    "name": "Esra Şen"
+  },
+  {
+    "username": "ahmet.demir",
+    "password": "206",
+    "role": "user",
+    "employee_id": "206",
+    "name": "Ahmet Demir"
+  },
+  {
+    "username": "mehmet.yildiz",
+    "password": "207",
+    "role": "user",
+    "employee_id": "207",
+    "name": "Mehmet Yıldız"
+  },
+  {
+    "username": "canan.yilmaz",
+    "password": "111",
+    "role": "user",
+    "employee_id": "111",
+    "name": "Canan Yılmaz"
+  },
+  {
+    "username": "ozan.demir",
+    "password": "112",
+    "role": "user",
+    "employee_id": "112",
+    "name": "Ozan Demir"
+  },
+  {
+    "username": "ece.gunes",
+    "password": "113",
+    "role": "user",
+    "employee_id": "113",
+    "name": "Ece Güneş"
+  },
+  {
+    "username": "mert.celik",
+    "password": "114",
+    "role": "user",
+    "employee_id": "114",
+    "name": "Mert Çelik"
+  },
+  {
+    "username": "gizem.acar",
+    "password": "115",
+    "role": "user",
+    "employee_id": "115",
+    "name": "Gizem Acar"
+  },
+  {
+    "username": "riza.kaya",
+    "password": "208",
+    "role": "user",
+    "employee_id": "208",
+    "name": "Rıza Kaya"
+  },
+  {
+    "username": "selim.koc",
+    "password": "209",
+    "role": "user",
+    "employee_id": "209",
+    "name": "Selim Koç"
+  },
+  {
+    "username": "vedat.sahin",
+    "password": "210",
+    "role": "user",
+    "employee_id": "210",
+    "name": "Vedat Şahin"
+  },
+  {
+    "username": "adem.yildirim",
+    "password": "211",
+    "role": "user",
+    "employee_id": "211",
+    "name": "Adem Yıldırım"
+  },
+  {
+    "username": "burak.can",
+    "password": "212",
+    "role": "user",
+    "employee_id": "212",
+    "name": "Burak Can"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "Etkinlik Adı": "Etkili İletişim Atölyesi",
+    "Tema": "iletisim_gelistirme",
+    "Tarih": "2025-02-12",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Empati ve İletişim Becerileri Semineri",
+    "Tema": "iletisim_gelistirme",
+    "Tarih": "2025-03-05",
+    "Lokasyon": "Ankara",
+    "Ücret (TL)": "350",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "İş Ortamında Net İletişim Teknikleri",
+    "Tema": "iletisim_gelistirme",
+    "Tarih": "2025-01-28",
+    "Lokasyon": "İstanbul",
+    "Ücret (TL)": "250",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Takım Çalışması ve İşbirliği Atölyesi",
+    "Tema": "takim_calismasi",
+    "Tarih": "2025-02-20",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Kapsayıcı İşbirliği Pratikleri Eğitimi",
+    "Tema": "takim_calismasi",
+    "Tarih": "2025-03-10",
+    "Lokasyon": "İstanbul",
+    "Ücret (TL)": "400",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Çatışma Çözümü ve İşbirliği Teknikleri",
+    "Tema": "takim_calismasi",
+    "Tarih": "2025-02-05",
+    "Lokasyon": "Ankara",
+    "Ücret (TL)": "300",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Analitik Düşünme ve Problem Çözme",
+    "Tema": "analitik_atolye",
+    "Tarih": "2025-02-22",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Veri Odaklı Karar Alma Atölyesi",
+    "Tema": "analitik_atolye",
+    "Tarih": "2025-03-02",
+    "Lokasyon": "Ankara",
+    "Ücret (TL)": "450",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Kritik Düşünme Teknikleri",
+    "Tema": "analitik_atolye",
+    "Tarih": "2025-01-30",
+    "Lokasyon": "İstanbul",
+    "Ücret (TL)": "300",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Teknik Uzmanlık Geliştirme Eğitimi",
+    "Tema": "teknik_egitim",
+    "Tarih": "2025-02-15",
+    "Lokasyon": "İstanbul",
+    "Ücret (TL)": "500",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Yeni Nesil Mühendislik Yaklaşımları",
+    "Tema": "teknik_egitim",
+    "Tarih": "2025-02-25",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Sistem Düşüncesi ve Uygulama",
+    "Tema": "teknik_egitim",
+    "Tarih": "2025-03-08",
+    "Lokasyon": "Ankara",
+    "Ücret (TL)": "600",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "İş Güvenliği ve Emniyet Farkındalığı Eğitimi",
+    "Tema": "is_gucu_guvenligi",
+    "Tarih": "2025-01-26",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Risk Yönetimi ve Safety Atölyesi",
+    "Tema": "is_gucu_guvenligi",
+    "Tarih": "2025-02-18",
+    "Lokasyon": "İstanbul",
+    "Ücret (TL)": "300",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Hata Önleme ve Emniyet Kültür Eğitimi",
+    "Tema": "is_gucu_guvenligi",
+    "Tarih": "2025-03-12",
+    "Lokasyon": "Ankara",
+    "Ücret (TL)": "350",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Süreç Yönetimi ve Standardizasyon Eğitimi",
+    "Tema": "surec_yonetimi",
+    "Tarih": "2025-01-29",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "SOP Oluşturma ve Uygulama Atölyesi",
+    "Tema": "surec_yonetimi",
+    "Tarih": "2025-02-21",
+    "Lokasyon": "İstanbul",
+    "Ücret (TL)": "400",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Kalite ve Süreç Geliştirme Semineri",
+    "Tema": "surec_yonetimi",
+    "Tarih": "2025-03-06",
+    "Lokasyon": "Ankara",
+    "Ücret (TL)": "450",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Etik Karar Alma ve Profesyonel Davranış Eğitimi",
+    "Tema": "etik_farkindalik",
+    "Tarih": "2025-01-27",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Kurumsal Etik ve Sorumluluk Atölyesi",
+    "Tema": "etik_farkindalik",
+    "Tarih": "2025-02-24",
+    "Lokasyon": "İstanbul",
+    "Ücret (TL)": "350",
+    "Link": "[link]"
+  },
+  {
+    "Etkinlik Adı": "Etik İkilemler ve Çözüm Teknikleri",
+    "Tema": "etik_farkindalik",
+    "Tarih": "2025-03-09",
+    "Lokasyon": "Ankara",
+    "Ücret (TL)": "300",
+    "Link": "[link]"
+  }
+]
