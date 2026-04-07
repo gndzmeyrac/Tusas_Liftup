@@ -10,6 +10,26 @@
 }
 
 @layer components {
+    /* Tipografi ölçeği (App genelinde tutarlılık için) */
+    .t-title {
+        @apply text-lg sm:text-xl font-extrabold text-[#1A237E] leading-tight;
+    }
+    .t-section-title {
+        @apply text-sm font-extrabold text-[#1A237E] tracking-wide;
+    }
+    .t-body {
+        @apply text-sm text-gray-700 leading-relaxed;
+    }
+    .t-caption {
+        @apply text-xs text-gray-500 leading-snug;
+    }
+    .t-label {
+        @apply text-[11px] font-extrabold uppercase tracking-widest text-gray-400;
+    }
+    .t-mini {
+        @apply text-[11px] text-gray-600 leading-snug;
+    }
+
     .section-header {
         @apply text-[#1A237E] text-xl font-bold mt-12 mb-6 pb-2 border-b border-gray-200 flex items-center gap-3;
     }

@@ -1,0 +1,71 @@
+{
+  "emniyet_kalite_ve_risk_farkindaligi": {
+    "emniyet_q1_risk_algisi": {
+      "tavsiye": "Proaktif risk algısı alanında gelişim ihtiyacı görülüyor. Riskleri erken fark edip zamanında paylaşmanız güvenli çalışma ortamını destekler."
+    },
+    "emniyet_q2_kalite_odagi": {
+      "tavsiye": "İlk seferde doğru kalite alanında gelişim ihtiyacı görülüyor. İşi teslim etmeden önce dikkatli biçimde kontrol etmeniz kaliteyi güçlendirir."
+    },
+    "emniyet_q3_is_guvenligi": {
+      "tavsiye": "İş güvenliği standartları alanında gelişim ihtiyacı görülüyor. Güvenlik kurallarına düzenli biçimde dikkat etmeniz güvenli çalışma alışkanlığını destekler."
+    },
+    "emniyet_q1_risk_algisi+emniyet_q2_kalite_odagi": {
+      "tavsiye": "Proaktif risk algısı ile ilk seferde doğru kalite alanlarında gelişim ihtiyacı görülüyor. Riskleri erken fark etmeniz ve işi dikkatle kontrol etmeniz faydalı olur."
+    },
+    "emniyet_q1_risk_algisi+emniyet_q3_is_guvenligi": {
+      "tavsiye": "Proaktif risk algısı ile iş güvenliği standartları alanlarında gelişim ihtiyacı görülüyor. Riskleri zamanında bildirmeniz ve güvenlik kurallarına dikkat etmeniz yararlı olur."
+    },
+    "emniyet_q2_kalite_odagi+emniyet_q3_is_guvenligi": {
+      "tavsiye": "İlk seferde doğru kalite ile iş güvenliği standartları alanlarında gelişim ihtiyacı görülüyor. Hem iş kalitesine hem de güvenli çalışma kurallarına aynı özeni göstermeniz fayda sağlar."
+    },
+    "emniyet_q1_risk_algisi+emniyet_q2_kalite_odagi+emniyet_q3_is_guvenligi": {
+      "tavsiye": "Proaktif risk algısı, ilk seferde doğru kalite ve iş güvenliği standartları alanlarında gelişim ihtiyacı görülüyor. Risk, kalite ve güvenlik tarafında daha dikkatli ve düzenli bir çalışma yaklaşımı benimsemeniz yararlı olur."
+    }
+  },
+  "etik_durus_ve_mesleki_cesaret": {
+    "etik_q1_kurumsal_uyum": {
+      "tavsiye": "Kurumsal etik ve uyum alanında gelişim ihtiyacı görülüyor. Belirsiz durumlarda kurallara başvurmanız ve uygun kanallardan görüş almanız faydalı olur."
+    },
+    "etik_q2_profesyonel_cesaret": {
+      "tavsiye": "Profesyonel cesaret alanında gelişim ihtiyacı görülüyor. Zor konularda görüşünüzü saygılı ve açık biçimde ifade etmeniz önemlidir."
+    },
+    "etik_q3_adil_davranis": {
+      "tavsiye": "Objektif ve adil yaklaşım alanında gelişim ihtiyacı görülüyor. Kararlarda ölçütleri açık tutmanız ve tutarlı davranmanız güven oluşturur."
+    },
+    "etik_q1_kurumsal_uyum+etik_q2_profesyonel_cesaret": {
+      "tavsiye": "Kurumsal etik ve uyum ile profesyonel cesaret alanlarında gelişim ihtiyacı görülüyor. Kurallara bağlı kalmanız ve gerektiğinde görüşünüzü açıkça ifade etmeniz faydalı olur."
+    },
+    "etik_q1_kurumsal_uyum+etik_q3_adil_davranis": {
+      "tavsiye": "Kurumsal etik ve uyum ile objektif ve adil yaklaşım alanlarında gelişim ihtiyacı görülüyor. Kurallara uygun ve ölçütleri açık bir yaklaşım benimsemeniz yararlı olur."
+    },
+    "etik_q2_profesyonel_cesaret+etik_q3_adil_davranis": {
+      "tavsiye": "Profesyonel cesaret ile objektif ve adil yaklaşım alanlarında gelişim ihtiyacı görülüyor. Görüşlerinizi açık biçimde ifade ederken adil ve dengeli davranmanız fayda sağlar."
+    },
+    "etik_q1_kurumsal_uyum+etik_q2_profesyonel_cesaret+etik_q3_adil_davranis": {
+      "tavsiye": "Kurumsal etik ve uyum, profesyonel cesaret ile objektif ve adil yaklaşım alanlarında gelişim ihtiyacı görülüyor. Etik ilkelere bağlı, açık ve adil bir duruş sergilemeniz yararlı olur."
+    }
+  },
+  "stratejik_dusunme_ve_vizyon_olusturma": {
+    "strateji_q1_vizyonerlik": {
+      "tavsiye": "Bütünsel bakış ve vizyonerlik alanında gelişim ihtiyacı görülüyor. Günlük işleri daha geniş hedeflerle ilişkilendirmeniz stratejik bakışınızı güçlendirir."
+    },
+    "strateji_q2_uzun_vadeli_planlama": {
+      "tavsiye": "Uzun vadeli planlama alanında gelişim ihtiyacı görülüyor. Kısa vadeli işlerin yanında daha uzun dönemli hedefleri de düşünmeniz faydalı olur."
+    },
+    "strateji_q3_inovasyon": {
+      "tavsiye": "İnovasyon ve değişim yönetimi alanında gelişim ihtiyacı görülüyor. Yeni fikirleri değerlendirmeye ve küçük iyileştirmeleri denemeye daha açık olmanız yararlı olur."
+    },
+    "strateji_q1_vizyonerlik+strateji_q2_uzun_vadeli_planlama": {
+      "tavsiye": "Bütünsel bakış ve vizyonerlik ile uzun vadeli planlama alanlarında gelişim ihtiyacı görülüyor. Günlük işleri daha geniş hedeflerle ilişkilendirmeniz ve ileriye dönük düşünmeniz faydalı olur."
+    },
+    "strateji_q1_vizyonerlik+strateji_q3_inovasyon": {
+      "tavsiye": "Bütünsel bakış ve vizyonerlik ile inovasyon ve değişim yönetimi alanlarında gelişim ihtiyacı görülüyor. Hedefleri daha geniş çerçevede değerlendirmeniz ve yeni fikirlere açık olmanız yararlı olur."
+    },
+    "strateji_q2_uzun_vadeli_planlama+strateji_q3_inovasyon": {
+      "tavsiye": "Uzun vadeli planlama ile inovasyon ve değişim yönetimi alanlarında gelişim ihtiyacı görülüyor. Geleceğe dönük düşünmeniz ve yeni yaklaşımları değerlendirmeye açık olmanız fayda sağlar."
+    },
+    "strateji_q1_vizyonerlik+strateji_q2_uzun_vadeli_planlama+strateji_q3_inovasyon": {
+      "tavsiye": "Bütünsel bakış ve vizyonerlik, uzun vadeli planlama ile inovasyon ve değişim yönetimi alanlarında gelişim ihtiyacı görülüyor. Daha geniş bakış açısı, ileriye dönük planlama ve yeniliğe açıklık tarafında gelişim göstermeniz yararlı olur."
+    }
+  }
+}

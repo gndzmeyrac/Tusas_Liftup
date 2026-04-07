@@ -7,15 +7,15 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "sync:egitimler": "node scripts/sync-dis-egitimler.cjs",
+    "merge:tavsiye": "node scripts/merge-tavsiye-kombinasyon.cjs",
+    "complete:faz0": "node scripts/complete-faz0-sentetik.cjs"
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.2.2",
-    "plotly.js-dist": "^3.4.0",
-    "plotly.js-dist-min": "^3.4.0",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
-    "react-plotly.js": "^2.6.0",
     "recharts": "^3.8.1"
   },
   "devDependencies": {

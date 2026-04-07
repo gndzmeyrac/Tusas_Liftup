@@ -1,170 +1,650 @@
 [
   {
-    "Etkinlik Adı": "Etkili İletişim Atölyesi",
-    "Tema": "iletisim_gelistirme",
-    "Tarih": "2025-02-12",
+    "Etkinlik Adı": "ABD, Çin, Rusya, Avrupa Birliği ve Türkiye'nin Grand Stratejileri Eğitimi",
+    "Tema": "stratejik_gelisim",
+    "Yetkinlikler": [
+      "stratejik_dusunme_ve_vizyon_olusturma"
+    ],
+    "Tarih": "Sürekli açık (platform)",
     "Lokasyon": "Online",
-    "Ücret (TL)": "0",
-    "Link": "[link]"
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/sinif/abd-cin-rusya-avrupa-birligi-ve-turkiye039nin-grand-stratejileri69b2c528c24bb.html",
+    "Kaynak": "ODTÜ SEM"
   },
   {
-    "Etkinlik Adı": "Empati ve İletişim Becerileri Semineri",
-    "Tema": "iletisim_gelistirme",
-    "Tarih": "2025-03-05",
-    "Lokasyon": "Ankara",
-    "Ücret (TL)": "350",
-    "Link": "[link]"
-  },
-  {
-    "Etkinlik Adı": "İş Ortamında Net İletişim Teknikleri",
-    "Tema": "iletisim_gelistirme",
-    "Tarih": "2025-01-28",
-    "Lokasyon": "İstanbul",
-    "Ücret (TL)": "250",
-    "Link": "[link]"
-  },
-  {
-    "Etkinlik Adı": "Takım Çalışması ve İşbirliği Atölyesi",
-    "Tema": "takim_calismasi",
-    "Tarih": "2025-02-20",
-    "Lokasyon": "Online",
-    "Ücret (TL)": "0",
-    "Link": "[link]"
-  },
-  {
-    "Etkinlik Adı": "Kapsayıcı İşbirliği Pratikleri Eğitimi",
-    "Tema": "takim_calismasi",
-    "Tarih": "2025-03-10",
-    "Lokasyon": "İstanbul",
-    "Ücret (TL)": "400",
-    "Link": "[link]"
-  },
-  {
-    "Etkinlik Adı": "Çatışma Çözümü ve İşbirliği Teknikleri",
-    "Tema": "takim_calismasi",
-    "Tarih": "2025-02-05",
-    "Lokasyon": "Ankara",
-    "Ücret (TL)": "300",
-    "Link": "[link]"
-  },
-  {
-    "Etkinlik Adı": "Analitik Düşünme ve Problem Çözme",
+    "Etkinlik Adı": "Bibliyometrik Yöntemlerle Araştırma Çıktılarının Değerlendirmesi (online) Eğitimi",
     "Tema": "analitik_atolye",
-    "Tarih": "2025-02-22",
+    "Yetkinlikler": [
+      "problem_cozme_ve_analitik_dusunme"
+    ],
+    "Tarih": "Sürekli açık (platform)",
     "Lokasyon": "Online",
-    "Ücret (TL)": "0",
-    "Link": "[link]"
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/egitim/bibliyometrik-yontemlerle-arastirma-ciktilarinin-degerlendirmesi-online.html",
+    "Kaynak": "ODTÜ SEM"
   },
   {
-    "Etkinlik Adı": "Veri Odaklı Karar Alma Atölyesi",
+    "Etkinlik Adı": "Bilgi Teknolojileri Sertifika Programı 3. modül",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/sinif/bilgi-teknolojileri-sertifika-programi-3-modul6998477d34e54.html",
+    "Kaynak": "ODTÜ SEM"
+  },
+  {
+    "Etkinlik Adı": "Bilgisayar Ağları (CCNAv7) Eğitimi",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/sinif/cisco-certified-network-associate-ccna-v7-egitimi690b19f28cf99.html",
+    "Kaynak": "ODTÜ SEM"
+  },
+  {
+    "Etkinlik Adı": "Bilgisayar Ağları İleri Düzey (CCNP Enterprise v8) Eğitimi",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/egitim/bilgisayar-aglari-ileri-duzey-ccnp-enterprise-v8.html",
+    "Kaynak": "ODTÜ SEM"
+  },
+  {
+    "Etkinlik Adı": "Eğitimde Yapay Zeka Kullanımı Sertifika Programı",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/egitim/egitimde-yapay-zeka-kullanimi-sertifika-programi.html",
+    "Kaynak": "ODTÜ SEM"
+  },
+  {
+    "Etkinlik Adı": "Elektrik ve Elektronik Mühendisliği için Temel Matematik Kavramları Eğitimi",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/egitim/elektrik-ve-elektronik-muhendisligi-icin-temel-matematik-kavramlari.html",
+    "Kaynak": "ODTÜ SEM"
+  },
+  {
+    "Etkinlik Adı": "Mikroelektronik Temel Aygıtlarının Endüstriyel Uyumlu Gerçeğe Yakın Modellenmesi ve Simülasyonu Eğitimi",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi",
+      "etik_durus_ve_mesleki_cesaret"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/egitim/mikroelektronik-temel-aygitlarinin-endustriyel-uyumlu-gercege-yakin-modellenmesi-ve-simulasyonu.html",
+    "Kaynak": "ODTÜ SEM"
+  },
+  {
+    "Etkinlik Adı": "Psikolojik Destek Süreçlerinde Sanal Gerçeklik Teknolojileri ve Uygulamaları Eğitimi",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi",
+      "surec_ve_prosedur_disiplini"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/egitim/psikolojik-destek-sureclerinde-sanal-gerceklik-teknolojileri-ve-uygulamalari.html",
+    "Kaynak": "ODTÜ SEM"
+  },
+  {
+    "Etkinlik Adı": "Python ile Veri Bilimine Giriş Eğitimi",
     "Tema": "analitik_atolye",
-    "Tarih": "2025-03-02",
-    "Lokasyon": "Ankara",
-    "Ücret (TL)": "450",
-    "Link": "[link]"
+    "Yetkinlikler": [
+      "problem_cozme_ve_analitik_dusunme",
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/egitim/python-ile-veri-bilimine-giris-online.html",
+    "Kaynak": "ODTÜ SEM"
   },
   {
-    "Etkinlik Adı": "Kritik Düşünme Teknikleri",
+    "Etkinlik Adı": "Siber Güvenlik Sertifika Programı",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/egitim/siber-guvenlik-sertifika-programi.html",
+    "Kaynak": "ODTÜ SEM"
+  },
+  {
+    "Etkinlik Adı": "Siber Güvenlik Sertifika Programı Eğitimi",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/sinif/siber-guvenlik-sertifika-programi696f35114615f.html",
+    "Kaynak": "ODTÜ SEM"
+  },
+  {
+    "Etkinlik Adı": "Sosyal Beceriler Eğitimi Serisi - Başarının Ötesinde: Değişen Dünyada Gereken Becerileri Geliştirmek",
+    "Tema": "takim_calismasi",
+    "Yetkinlikler": [
+      "isbirligi_ve_kapsayici_calisma"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/egitim/sosyal-beceriler-egitimi-serisi-basarinin-otesinde-degisen-dunyada-gereken-becerileri-gelistirmek.html",
+    "Kaynak": "ODTÜ SEM"
+  },
+  {
+    "Etkinlik Adı": "Sosyal Beceriler Eğitimi Serisi - Etkili İletişim",
+    "Tema": "iletisim_gelistirme",
+    "Yetkinlikler": [
+      "acik_iletisim_ve_bilgi_paylasimi",
+      "isbirligi_ve_kapsayici_calisma"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/egitim/sosyal-beceriler-egitimi-serisi-etkili-iletisim.html",
+    "Kaynak": "ODTÜ SEM"
+  },
+  {
+    "Etkinlik Adı": "Taramalı Elektron Mikroskobu Sertifika Programı Eğitimi",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/egitim/taramali-elektron-mikroskobu-sertifika-programi.html",
+    "Kaynak": "ODTÜ SEM"
+  },
+  {
+    "Etkinlik Adı": "Teknolojik İnovasyon Yönetimi Eğitimi",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi",
+      "yonetsel_cesaret_ve_karar_kalitesi",
+      "stratejik_dusunme_ve_vizyon_olusturma"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/egitim/teknolojik-inovasyon-yonetimi-online1.html",
+    "Kaynak": "ODTÜ SEM"
+  },
+  {
+    "Etkinlik Adı": "Yapı Bilgi Yönetimi Sertifika Programı (Online)",
+    "Tema": "yonetsel_gelisim",
+    "Yetkinlikler": [
+      "yonetsel_cesaret_ve_karar_kalitesi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/egitim/bim-yonetim.html",
+    "Kaynak": "ODTÜ SEM"
+  },
+  {
+    "Etkinlik Adı": "Yapı Bilgi Yönetimi Sertifika Programı (Online) Eğitimi",
+    "Tema": "yonetsel_gelisim",
+    "Yetkinlikler": [
+      "yonetsel_cesaret_ve_karar_kalitesi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://sem.metu.edu.tr/egitim/bim-yonetim.html",
+    "Kaynak": "ODTÜ SEM"
+  },
+  {
+    "Etkinlik Adı": "Beden Dili Eğitimi",
+    "Tema": "iletisim_gelistirme",
+    "Yetkinlikler": [
+      "acik_iletisim_ve_bilgi_paylasimi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://boenstitu.com/online-egitimler/beden-dili-egitimi",
+    "Kaynak": "Boğaziçi Enstitüsü"
+  },
+  {
+    "Etkinlik Adı": "Diksiyon Eğitimi",
+    "Tema": "iletisim_gelistirme",
+    "Yetkinlikler": [
+      "acik_iletisim_ve_bilgi_paylasimi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://boenstitu.com/online-egitimler/diksiyon-ve-guzel-konusma-kursu",
+    "Kaynak": "Boğaziçi Enstitüsü"
+  },
+  {
+    "Etkinlik Adı": "Etkili İletişim Teknikleri Eğitimi",
+    "Tema": "iletisim_gelistirme",
+    "Yetkinlikler": [
+      "acik_iletisim_ve_bilgi_paylasimi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://boenstitu.com/online-egitimler/etkili-iletisim-teknikleri-egitimi",
+    "Kaynak": "Boğaziçi Enstitüsü"
+  },
+  {
+    "Etkinlik Adı": "İletişim Teknikleri Eğitimi",
+    "Tema": "iletisim_gelistirme",
+    "Yetkinlikler": [
+      "acik_iletisim_ve_bilgi_paylasimi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://boenstitu.com/online-egitimler/etkili-iletisim-teknikleri-egitimi",
+    "Kaynak": "Boğaziçi Enstitüsü"
+  },
+  {
+    "Etkinlik Adı": "İnsan Kaynakları Yönetimi Eğitimi",
+    "Tema": "yonetsel_gelisim",
+    "Yetkinlikler": [
+      "yonetsel_cesaret_ve_karar_kalitesi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://boenstitu.com/online-egitimler/online-insan-kaynaklari-yonetimi-egitimi",
+    "Kaynak": "Boğaziçi Enstitüsü"
+  },
+  {
+    "Etkinlik Adı": "KVKK Eğitimi",
+    "Tema": "etik_farkindalik",
+    "Yetkinlikler": [
+      "etik_durus_ve_mesleki_cesaret"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://boenstitu.com/online-egitimler/kvkk-egitimi-kisisel-verilerin-korunmasi-kanunu",
+    "Kaynak": "Boğaziçi Enstitüsü"
+  },
+  {
+    "Etkinlik Adı": "LinkedIn Yönetimi Eğitimi",
+    "Tema": "yonetsel_gelisim",
+    "Yetkinlikler": [
+      "yonetsel_cesaret_ve_karar_kalitesi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://boenstitu.com/online-egitimler/linkedin-yonetimi-egitimi",
+    "Kaynak": "Boğaziçi Enstitüsü"
+  },
+  {
+    "Etkinlik Adı": "Performans Yönetim Sistemi Eğitimi",
+    "Tema": "yonetsel_gelisim",
+    "Yetkinlikler": [
+      "yonetsel_cesaret_ve_karar_kalitesi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://boenstitu.com/online-egitimler/performans-yonetimi-sistemi-egitimi",
+    "Kaynak": "Boğaziçi Enstitüsü"
+  },
+  {
+    "Etkinlik Adı": "Python Eğitimi",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://boenstitu.com/online-egitimler/python-egitimi",
+    "Kaynak": "Boğaziçi Enstitüsü"
+  },
+  {
+    "Etkinlik Adı": "Stres Yönetimi Eğitimi",
+    "Tema": "yonetsel_gelisim",
+    "Yetkinlikler": [
+      "yonetsel_cesaret_ve_karar_kalitesi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://boenstitu.com/online-egitimler/stresle-basa-cikma-egitimi",
+    "Kaynak": "Boğaziçi Enstitüsü"
+  },
+  {
+    "Etkinlik Adı": "Temel İş Sağlığı ve Güvenliği Eğitimi",
+    "Tema": "is_gucu_guvenligi",
+    "Yetkinlikler": [
+      "emniyet_kalite_ve_risk_farkindaligi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://boenstitu.com/online-egitimler/is-sagligi-ve-guvenligi-egitimi",
+    "Kaynak": "Boğaziçi Enstitüsü"
+  },
+  {
+    "Etkinlik Adı": "Temel Programlama Eğitimi",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://boenstitu.com/online-egitimler/programlamanin-temelleri-temel-programlama-egitimi",
+    "Kaynak": "Boğaziçi Enstitüsü"
+  },
+  {
+    "Etkinlik Adı": "Zaman Yönetimi Eğitimi",
+    "Tema": "yonetsel_gelisim",
+    "Yetkinlikler": [
+      "yonetsel_cesaret_ve_karar_kalitesi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "Değişken",
+    "Link": "https://boenstitu.com/online-egitimler/zaman-yonetimi-egitimi",
+    "Kaynak": "Boğaziçi Enstitüsü"
+  },
+  {
+    "Etkinlik Adı": "Algoritma Programlama ve Veri Yapılarına Giriş",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://www.btkakademi.gov.tr/portal/course/algoritma-programlama-ve-veri-yapilarina-giris-12565",
+    "Kaynak": "BTK Akademi"
+  },
+  {
+    "Etkinlik Adı": "Bilgi Teknolojilerine Giriş",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://www.btkakademi.gov.tr/portal/course/bilgi-teknolojilerine-giris-9391",
+    "Kaynak": "BTK Akademi"
+  },
+  {
+    "Etkinlik Adı": "Etkili İletişim Stratejileri",
+    "Tema": "iletisim_gelistirme",
+    "Yetkinlikler": [
+      "acik_iletisim_ve_bilgi_paylasimi",
+      "stratejik_dusunme_ve_vizyon_olusturma"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://www.btkakademi.gov.tr/portal/course/etkili-iletisim-stratejileri-21064",
+    "Kaynak": "BTK Akademi"
+  },
+  {
+    "Etkinlik Adı": "HTML5 ile Web Geliştirme",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://www.btkakademi.gov.tr/portal/course/html5-ile-web-gelistirme-13200",
+    "Kaynak": "BTK Akademi"
+  },
+  {
+    "Etkinlik Adı": "JAVA ile Programlamaya Giriş",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://www.btkakademi.gov.tr/portal/course/java-ile-programlamaya-giris-9617",
+    "Kaynak": "BTK Akademi"
+  },
+  {
+    "Etkinlik Adı": "Sıfırdan İleri Seviye Python Programlama",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877",
+    "Kaynak": "BTK Akademi"
+  },
+  {
+    "Etkinlik Adı": "Uygulamalarla SQL Öğreniyorum",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249",
+    "Kaynak": "BTK Akademi"
+  },
+  {
+    "Etkinlik Adı": "Afet Ve Acil Durum Farkindalik Egitimi",
+    "Tema": "is_gucu_guvenligi",
+    "Yetkinlikler": [
+      "emniyet_kalite_ve_risk_farkindaligi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://www.hemba.gov.tr/egitim-detay/afet-ve-acil-durum-farkindalik-egitimi-1537",
+    "Kaynak": "HEMBA"
+  },
+  {
+    "Etkinlik Adı": "Afet Ve Acil Durum Sonrasi Stres Yonetimi",
+    "Tema": "yonetsel_gelisim",
+    "Yetkinlikler": [
+      "yonetsel_cesaret_ve_karar_kalitesi",
+      "emniyet_kalite_ve_risk_farkindaligi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://www.hemba.gov.tr/egitim-detay/afet-ve-acil-durum-sonrasi-stres-yonetimi-2430",
+    "Kaynak": "HEMBA"
+  },
+  {
+    "Etkinlik Adı": "Calisanlarin Temel Is Sagligi Ve Guvenligi Egitimi",
+    "Tema": "is_gucu_guvenligi",
+    "Yetkinlikler": [
+      "emniyet_kalite_ve_risk_farkindaligi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://www.hemba.gov.tr/egitim-detay/calisanlarin-temel-is-sagligi-ve-guvenligi-egitimi-1816",
+    "Kaynak": "HEMBA"
+  },
+  {
+    "Etkinlik Adı": "Diksiyon Egitimi",
+    "Tema": "iletisim_gelistirme",
+    "Yetkinlikler": [
+      "acik_iletisim_ve_bilgi_paylasimi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://www.hemba.gov.tr/egitim-detay/diksiyon-egitimi-1457",
+    "Kaynak": "HEMBA"
+  },
+  {
+    "Etkinlik Adı": "Is Sagligi Ve Guvenligi",
+    "Tema": "is_gucu_guvenligi",
+    "Yetkinlikler": [
+      "emniyet_kalite_ve_risk_farkindaligi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://www.hemba.gov.tr/egitim-detay/is-sagligi-ve-guvenligi-1795",
+    "Kaynak": "HEMBA"
+  },
+  {
+    "Etkinlik Adı": "Meslek Etigi",
+    "Tema": "etik_farkindalik",
+    "Yetkinlikler": [
+      "etik_durus_ve_mesleki_cesaret"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://www.hemba.gov.tr/egitim-detay/meslek-etigi-1735",
+    "Kaynak": "HEMBA"
+  },
+  {
+    "Etkinlik Adı": "Yapay Zeka Okuryazarligi",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://www.hemba.gov.tr/egitim-detay/yapay-zeka-okuryazarligi-2188",
+    "Kaynak": "HEMBA"
+  },
+  {
+    "Etkinlik Adı": "Dijital Gönüllü Yönetimi ve Bağlılığı",
+    "Tema": "yonetsel_gelisim",
+    "Yetkinlikler": [
+      "yonetsel_cesaret_ve_karar_kalitesi",
+      "isbirligi_ve_kapsayici_calisma"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://globalenstitu.com/egitim/dijital-gonullu-yonetimi-ve-bagliligi-sertifikasi/",
+    "Kaynak": "Global Enstitü"
+  },
+  {
+    "Etkinlik Adı": "Problem Çözme",
     "Tema": "analitik_atolye",
-    "Tarih": "2025-01-30",
-    "Lokasyon": "İstanbul",
-    "Ücret (TL)": "300",
-    "Link": "[link]"
+    "Yetkinlikler": [
+      "problem_cozme_ve_analitik_dusunme"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://globalenstitu.com/egitim/problem-cozme-sertifikasi/",
+    "Kaynak": "Global Enstitü"
   },
   {
-    "Etkinlik Adı": "Teknik Uzmanlık Geliştirme Eğitimi",
+    "Etkinlik Adı": "Python ile Veri Bilimi",
+    "Tema": "analitik_atolye",
+    "Yetkinlikler": [
+      "problem_cozme_ve_analitik_dusunme",
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://globalenstitu.com/egitim/python-ile-veri-bilimi-sertifikasi/",
+    "Kaynak": "Global Enstitü"
+  },
+  {
+    "Etkinlik Adı": "Python Programlama",
     "Tema": "teknik_egitim",
-    "Tarih": "2025-02-15",
-    "Lokasyon": "İstanbul",
-    "Ücret (TL)": "500",
-    "Link": "[link]"
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
+    "Lokasyon": "Online",
+    "Ücret (TL)": "0",
+    "Link": "https://globalenstitu.com/egitim/python-programlama-sertifikasi/",
+    "Kaynak": "Global Enstitü"
   },
   {
-    "Etkinlik Adı": "Yeni Nesil Mühendislik Yaklaşımları",
+    "Etkinlik Adı": "Rust Sistem Programlama",
     "Tema": "teknik_egitim",
-    "Tarih": "2025-02-25",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
     "Lokasyon": "Online",
     "Ücret (TL)": "0",
-    "Link": "[link]"
+    "Link": "https://globalenstitu.com/egitim/rust-sistem-programlama-sertifikasi/",
+    "Kaynak": "Global Enstitü"
   },
   {
-    "Etkinlik Adı": "Sistem Düşüncesi ve Uygulama",
+    "Etkinlik Adı": "SQL ile Veritabanı Yönetimi",
     "Tema": "teknik_egitim",
-    "Tarih": "2025-03-08",
-    "Lokasyon": "Ankara",
-    "Ücret (TL)": "600",
-    "Link": "[link]"
-  },
-  {
-    "Etkinlik Adı": "İş Güvenliği ve Emniyet Farkındalığı Eğitimi",
-    "Tema": "is_gucu_guvenligi",
-    "Tarih": "2025-01-26",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi",
+      "yonetsel_cesaret_ve_karar_kalitesi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
     "Lokasyon": "Online",
     "Ücret (TL)": "0",
-    "Link": "[link]"
+    "Link": "https://globalenstitu.com/egitim/sql-ile-veritabani-yonetimi-sertifikasi/",
+    "Kaynak": "Global Enstitü"
   },
   {
-    "Etkinlik Adı": "Risk Yönetimi ve Safety Atölyesi",
-    "Tema": "is_gucu_guvenligi",
-    "Tarih": "2025-02-18",
-    "Lokasyon": "İstanbul",
-    "Ücret (TL)": "300",
-    "Link": "[link]"
-  },
-  {
-    "Etkinlik Adı": "Hata Önleme ve Emniyet Kültür Eğitimi",
-    "Tema": "is_gucu_guvenligi",
-    "Tarih": "2025-03-12",
-    "Lokasyon": "Ankara",
-    "Ücret (TL)": "350",
-    "Link": "[link]"
-  },
-  {
-    "Etkinlik Adı": "Süreç Yönetimi ve Standardizasyon Eğitimi",
-    "Tema": "surec_yonetimi",
-    "Tarih": "2025-01-29",
+    "Etkinlik Adı": "x86 Assembly Programlama",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
     "Lokasyon": "Online",
     "Ücret (TL)": "0",
-    "Link": "[link]"
+    "Link": "https://globalenstitu.com/egitim/x86-assembly-programlama-sertifikasi/",
+    "Kaynak": "Global Enstitü"
   },
   {
-    "Etkinlik Adı": "SOP Oluşturma ve Uygulama Atölyesi",
-    "Tema": "surec_yonetimi",
-    "Tarih": "2025-02-21",
-    "Lokasyon": "İstanbul",
-    "Ücret (TL)": "400",
-    "Link": "[link]"
-  },
-  {
-    "Etkinlik Adı": "Kalite ve Süreç Geliştirme Semineri",
-    "Tema": "surec_yonetimi",
-    "Tarih": "2025-03-06",
-    "Lokasyon": "Ankara",
-    "Ücret (TL)": "450",
-    "Link": "[link]"
-  },
-  {
-    "Etkinlik Adı": "Etik Karar Alma ve Profesyonel Davranış Eğitimi",
-    "Tema": "etik_farkindalik",
-    "Tarih": "2025-01-27",
+    "Etkinlik Adı": "Yazılım Testi ve Kalite Güvencesi",
+    "Tema": "teknik_egitim",
+    "Yetkinlikler": [
+      "teknik_uzmanlik_ve_alan_bilgisi",
+      "emniyet_kalite_ve_risk_farkindaligi"
+    ],
+    "Tarih": "Sürekli açık (platform)",
     "Lokasyon": "Online",
     "Ücret (TL)": "0",
-    "Link": "[link]"
-  },
-  {
-    "Etkinlik Adı": "Kurumsal Etik ve Sorumluluk Atölyesi",
-    "Tema": "etik_farkindalik",
-    "Tarih": "2025-02-24",
-    "Lokasyon": "İstanbul",
-    "Ücret (TL)": "350",
-    "Link": "[link]"
-  },
-  {
-    "Etkinlik Adı": "Etik İkilemler ve Çözüm Teknikleri",
-    "Tema": "etik_farkindalik",
-    "Tarih": "2025-03-09",
-    "Lokasyon": "Ankara",
-    "Ücret (TL)": "300",
-    "Link": "[link]"
+    "Link": "https://globalenstitu.com/egitim/yazilim-testi-ve-kalite-guvencesi-sertifikasi/",
+    "Kaynak": "Global Enstitü"
   }
 ]

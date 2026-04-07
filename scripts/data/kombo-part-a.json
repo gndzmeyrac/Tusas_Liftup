@@ -1,0 +1,71 @@
+﻿{
+  "acik_iletisim_ve_bilgi_paylasimi": {
+    "iletisim_q1_dinleme": {
+      "tavsiye": "Aktif dinleme ve empati alanında gelişim ihtiyacı görülüyor. Karşı tarafı dikkatle dinlemek ve anladığınızı kısa bir cümleyle göstermek iletişimi güçlendirir."
+    },
+    "iletisim_q2_sunum": {
+      "tavsiye": "Etkili hitabet ve sunum alanında gelişim ihtiyacı görülüyor. Mesajınızı kısa, açık ve düzenli bir şekilde sunmanız anlatımınızı güçlendirir."
+    },
+    "iletisim_q3_yazili": {
+      "tavsiye": "Yazılı iletişim alanında gelişim ihtiyacı görülüyor. Yazışmalarda amaç, beklenti ve zamanı açık biçimde belirtmeniz anlaşılmayı kolaylaştırır."
+    },
+    "iletisim_q1_dinleme+iletisim_q2_sunum": {
+      "tavsiye": "Aktif dinleme ve empati ile etkili hitabet ve sunum alanlarında gelişim ihtiyacı görülüyor. Önce karşı tarafı doğru anladığınızdan emin olmanız, ardından mesajınızı açık ve sade biçimde iletmeniz faydalı olur."
+    },
+    "iletisim_q1_dinleme+iletisim_q3_yazili": {
+      "tavsiye": "Aktif dinleme ve empati ile yazılı iletişim alanlarında gelişim ihtiyacı görülüyor. Önce söyleneni doğru anlamanız, ardından bunu kısa ve net bir dille yazıya dökmeniz iletişimi güçlendirir."
+    },
+    "iletisim_q2_sunum+iletisim_q3_yazili": {
+      "tavsiye": "Etkili hitabet ve sunum ile yazılı iletişim alanlarında gelişim ihtiyacı görülüyor. Sözlü ve yazılı anlatımda açık, sade ve anlaşılır bir dil kullanmanız yararlı olur."
+    },
+    "iletisim_q1_dinleme+iletisim_q2_sunum+iletisim_q3_yazili": {
+      "tavsiye": "Aktif dinleme ve empati, etkili hitabet ve sunum ile yazılı iletişim alanlarında gelişim ihtiyacı görülüyor. Dinleme, anlatım ve yazılı ifade tarafında daha açık ve net bir iletişim dili kullanmanız fayda sağlar."
+    }
+  },
+  "problem_cozme_ve_analitik_dusunme": {
+    "analitik_q1_kriz_yonetimi": {
+      "tavsiye": "Kriz yönetimi alanında gelişim ihtiyacı görülüyor. Baskı altında sakin kalmanız ve öncelikleri doğru belirlemeniz süreci daha sağlıklı yönetmenize yardımcı olur."
+    },
+    "analitik_q2_veri_odaklilik": {
+      "tavsiye": "Veri odaklılık alanında gelişim ihtiyacı görülüyor. Değerlendirme ve kararlarınızı mümkün olduğunca somut verilerle desteklemeniz yararlı olur."
+    },
+    "analitik_q3_kok_neden": {
+      "tavsiye": "Kök neden analizi alanında gelişim ihtiyacı görülüyor. Sorunların yalnızca sonucuna değil, temel nedenine odaklanmanız kalıcı çözüm üretmenizi kolaylaştırır."
+    },
+    "analitik_q1_kriz_yonetimi+analitik_q2_veri_odaklilik": {
+      "tavsiye": "Kriz yönetimi ile veri odaklılık alanlarında gelişim ihtiyacı görülüyor. Kriz anlarında öncelikleri netleştirmeniz ve kararlarınızı somut bilgilerle desteklemeniz faydalı olur."
+    },
+    "analitik_q1_kriz_yonetimi+analitik_q3_kok_neden": {
+      "tavsiye": "Kriz yönetimi ile kök neden analizi alanlarında gelişim ihtiyacı görülüyor. Olay anında öncelikleri sakin biçimde yönetmeniz ve sonrasında temel nedeni doğru değerlendirmeniz yararlı olur."
+    },
+    "analitik_q2_veri_odaklilik+analitik_q3_kok_neden": {
+      "tavsiye": "Veri odaklılık ile kök neden analizi alanlarında gelişim ihtiyacı görülüyor. Sorunları değerlendirirken hem somut verilere bakmanız hem de temel nedeni sorgulamanız fayda sağlar."
+    },
+    "analitik_q1_kriz_yonetimi+analitik_q2_veri_odaklilik+analitik_q3_kok_neden": {
+      "tavsiye": "Kriz yönetimi, veri odaklılık ve kök neden analizi alanlarında gelişim ihtiyacı görülüyor. Süreçleri daha sakin, veriye dayalı ve neden-sonuç ilişkisini gözeterek değerlendirmeniz yararlı olur."
+    }
+  },
+  "teknik_uzmanlik_ve_alan_bilgisi": {
+    "teknik_q1_cekirdek_beceri": {
+      "tavsiye": "Çekirdek yetkinlik alanında gelişim ihtiyacı görülüyor. Göreviniz için temel olan bilgi ve becerileri düzenli biçimde güçlendirmeniz faydalı olur."
+    },
+    "teknik_q2_arac_hakimiyeti": {
+      "tavsiye": "Araç hakimiyeti alanında gelişim ihtiyacı görülüyor. Kullandığınız araç ve sistemleri daha etkin kullanmanız işlerinizi hızlandırır ve kolaylaştırır."
+    },
+    "teknik_q3_teknolojik_trendler": {
+      "tavsiye": "Teknoloji takibi alanında gelişim ihtiyacı görülüyor. Alanınızdaki güncel gelişmeleri düzenli olarak takip etmeniz mesleki bakışınızı güçlendirir."
+    },
+    "teknik_q1_cekirdek_beceri+teknik_q2_arac_hakimiyeti": {
+      "tavsiye": "Çekirdek yetkinlik ile araç hakimiyeti alanlarında gelişim ihtiyacı görülüyor. Temel teknik bilgiyle birlikte kullandığınız araçlara hakimiyetinizi artırmanız fayda sağlar."
+    },
+    "teknik_q1_cekirdek_beceri+teknik_q3_teknolojik_trendler": {
+      "tavsiye": "Çekirdek yetkinlik ile teknoloji takibi alanlarında gelişim ihtiyacı görülüyor. Temel bilgi altyapınızı güçlendirirken alanınızdaki yeni gelişmeleri takip etmeniz yararlı olur."
+    },
+    "teknik_q2_arac_hakimiyeti+teknik_q3_teknolojik_trendler": {
+      "tavsiye": "Araç hakimiyeti ile teknoloji takibi alanlarında gelişim ihtiyacı görülüyor. Kullandığınız araçları daha verimli kullanmanız ve güncel gelişmeleri izlemeniz faydalı olur."
+    },
+    "teknik_q1_cekirdek_beceri+teknik_q2_arac_hakimiyeti+teknik_q3_teknolojik_trendler": {
+      "tavsiye": "Çekirdek yetkinlik, araç hakimiyeti ve teknoloji takibi alanlarında gelişim ihtiyacı görülüyor. Teknik bilgi, araç kullanımı ve güncel gelişmeler tarafında düzenli gelişim göstermeye odaklanmanız yararlı olur."
+    }
+  }
+}

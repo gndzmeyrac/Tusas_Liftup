@@ -1,0 +1,71 @@
+{
+  "yonetsel_cesaret_ve_karar_kalitesi": {
+    "yonetim_q1_delegasyon": {
+      "tavsiye": "Stratejik görev dağılımı alanında gelişim ihtiyacı görülüyor. Görev devrinde beklentiyi, kapsamı ve zamanı açık biçimde belirtmeniz süreci güçlendirir."
+    },
+    "yonetim_q2_karar_alma": {
+      "tavsiye": "Karar alma alanında gelişim ihtiyacı görülüyor. Kararları zamanında ve açık bir gerekçeyle paylaşmanız ekibe yön verir."
+    },
+    "yonetim_q3_geri_bildirim": {
+      "tavsiye": "Geri bildirim kültürü alanında gelişim ihtiyacı görülüyor. Açık, yapıcı ve zamanında geri bildirim vermeniz gelişimi destekler."
+    },
+    "yonetim_q1_delegasyon+yonetim_q2_karar_alma": {
+      "tavsiye": "Stratejik görev dağılımı ile karar alma alanlarında gelişim ihtiyacı görülüyor. Görev devrinde çerçeveyi netleştirmeniz ve kararları açık biçimde paylaşmanız faydalı olur."
+    },
+    "yonetim_q1_delegasyon+yonetim_q3_geri_bildirim": {
+      "tavsiye": "Stratejik görev dağılımı ile geri bildirim kültürü alanlarında gelişim ihtiyacı görülüyor. Görev devrinde beklentiyi netleştirmeniz ve süreç içinde düzenli geri bildirim vermeniz yararlı olur."
+    },
+    "yonetim_q2_karar_alma+yonetim_q3_geri_bildirim": {
+      "tavsiye": "Karar alma ile geri bildirim kültürü alanlarında gelişim ihtiyacı görülüyor. Kararları açık biçimde duyurmanız ve sonrasında görüş almanız süreci güçlendirir."
+    },
+    "yonetim_q1_delegasyon+yonetim_q2_karar_alma+yonetim_q3_geri_bildirim": {
+      "tavsiye": "Stratejik görev dağılımı, karar alma ve geri bildirim kültürü alanlarında gelişim ihtiyacı görülüyor. Görev dağılımı, karar netliği ve düzenli geri bildirim tarafında daha açık bir yönetim dili kullanmanız faydalı olur."
+    }
+  },
+  "isbirligi_ve_kapsayici_calisma": {
+    "isbirligi_q1_yardimlasma": {
+      "tavsiye": "Yardımlaşma ve sinerji alanında gelişim ihtiyacı görülüyor. Ekip içinde destek vermeye açık olmanız iş birliğini güçlendirir."
+    },
+    "isbirligi_q2_kapsayicilik": {
+      "tavsiye": "Kapsayıcılık alanında gelişim ihtiyacı görülüyor. Farklı görüşlere alan açmanız ve herkesi sürece dahil etmeniz ekip uyumunu artırır."
+    },
+    "isbirligi_q3_catisma_cozumu": {
+      "tavsiye": "Çatışma yönetimi alanında gelişim ihtiyacı görülüyor. Anlaşmazlıklarda konuya odaklanmanız ve sakin bir iletişim kurmanız çözümü kolaylaştırır."
+    },
+    "isbirligi_q1_yardimlasma+isbirligi_q2_kapsayicilik": {
+      "tavsiye": "Yardımlaşma ve sinerji ile kapsayıcılık alanlarında gelişim ihtiyacı görülüyor. Ekip içinde destekleyici bir yaklaşım sergilemeniz ve farklı görüşlere yer vermeniz faydalı olur."
+    },
+    "isbirligi_q1_yardimlasma+isbirligi_q3_catisma_cozumu": {
+      "tavsiye": "Yardımlaşma ve sinerji ile çatışma yönetimi alanlarında gelişim ihtiyacı görülüyor. Destekleyici bir ekip yaklaşımı kurmanız ve anlaşmazlıklarda sakin kalmanız yararlı olur."
+    },
+    "isbirligi_q2_kapsayicilik+isbirligi_q3_catisma_cozumu": {
+      "tavsiye": "Kapsayıcılık ile çatışma yönetimi alanlarında gelişim ihtiyacı görülüyor. Farklı görüşleri dinlemeniz ve anlaşmazlıkları yapıcı biçimde ele almanız fayda sağlar."
+    },
+    "isbirligi_q1_yardimlasma+isbirligi_q2_kapsayicilik+isbirligi_q3_catisma_cozumu": {
+      "tavsiye": "Yardımlaşma ve sinerji, kapsayıcılık ile çatışma yönetimi alanlarında gelişim ihtiyacı görülüyor. Ekip içinde daha destekleyici, kapsayıcı ve yapıcı bir iletişim tarzı geliştirmeniz yararlı olur."
+    }
+  },
+  "surec_ve_prosedur_disiplini": {
+    "surec_q1_dokumantasyon": {
+      "tavsiye": "Kurumsal hafıza ve dokümantasyon alanında gelişim ihtiyacı görülüyor. Önemli bilgi ve kararları düzenli biçimde kayıt altına almanız süreci güçlendirir."
+    },
+    "surec_q2_uygulama_disiplini": {
+      "tavsiye": "Süreç sadakati alanında gelişim ihtiyacı görülüyor. Tanımlı adımlara dikkatle uymanız işlerin daha tutarlı ilerlemesini sağlar."
+    },
+    "surec_q3_surec_iyilestirme": {
+      "tavsiye": "Sürekli iyileştirme alanında gelişim ihtiyacı görülüyor. Süreçlerde tekrar eden aksaklıkları fark edip küçük iyileştirmeler önermeniz faydalı olur."
+    },
+    "surec_q1_dokumantasyon+surec_q2_uygulama_disiplini": {
+      "tavsiye": "Kurumsal hafıza ve dokümantasyon ile süreç sadakati alanlarında gelişim ihtiyacı görülüyor. Süreçleri kayıtlı ve düzenli biçimde yürütmeniz işleyişi güçlendirir."
+    },
+    "surec_q1_dokumantasyon+surec_q3_surec_iyilestirme": {
+      "tavsiye": "Kurumsal hafıza ve dokümantasyon ile sürekli iyileştirme alanlarında gelişim ihtiyacı görülüyor. Süreçleri kayıt altına almanız ve gelişim alanlarını düzenli gözden geçirmeniz yararlı olur."
+    },
+    "surec_q2_uygulama_disiplini+surec_q3_surec_iyilestirme": {
+      "tavsiye": "Süreç sadakati ile sürekli iyileştirme alanlarında gelişim ihtiyacı görülüyor. Süreçlere uyum göstermenin yanında işleyişi geliştirecek noktaları da fark etmeniz fayda sağlar."
+    },
+    "surec_q1_dokumantasyon+surec_q2_uygulama_disiplini+surec_q3_surec_iyilestirme": {
+      "tavsiye": "Kurumsal hafıza ve dokümantasyon, süreç sadakati ile sürekli iyileştirme alanlarında gelişim ihtiyacı görülüyor. Kayıt düzeni, süreç disiplini ve iyileştirme bakışını birlikte güçlendirmeniz yararlı olur."
+    }
+  }
+}

@@ -1,16 +1,19 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useRef } from 'react';
 import {
   Radar, RadarChart, PolarGrid, PolarAngleAxis, ResponsiveContainer,
-  BarChart, Bar, XAxis, YAxis, Tooltip, Legend, Cell
+  ComposedChart, Bar, Scatter, XAxis, YAxis, Tooltip, Legend, Cell
 } from 'recharts';
 
 // Mantık ve Veri Importları
-import { calculateScores } from './utils/calculators';
+import { calculateScores, calculateCompanyBenchmarks } from './utils/calculators';
 import { generateDevelopmentPlan } from './utils/engine';
 import allData from './data/input/faz0_sentetik_veri.json';
 import users from './data/users.json';
 
 // --- YARDIMCI: BAŞLIK DÜZELTİCİ (MAPPING) ---
+const isActivityLink = (link) =>
+  typeof link === 'string' && /^https?:\/\//i.test(link.trim());
+
 const formatTitle = (text) => {
   const mapping = {
     "acik_iletisim_ve_bilgi_paylasimi": "Açık İletişim",
@@ -26,12 +29,108 @@ const formatTitle = (text) => {
   return mapping[text] || text.split('_').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
 };
 
+function StrategicDevelopmentPlan({ devPlan }) {
+  const [strongExpanded, setStrongExpanded] = useState(false);
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-8">
+      {['weak', 'medium', 'strong'].map((level) => {
+        const items = devPlan.filter((p) => p.seviye === level);
+        const m = {
+          weak: { t: 'ÖNCELİKLİ GELİŞİM', c: 'bg-[#C62828]', accent: '#C62828' },
+          medium: { t: 'İYİLEŞTİRME', c: 'bg-[#EF6C00]', accent: '#EF6C00' },
+          strong: { t: 'GÜÇLÜ YÖNLER', c: 'bg-[#2E7D32]', accent: '#2E7D32' },
+        }[level];
+        const visibleStrong =
+          level === 'strong' ? (strongExpanded ? items : items.slice(0, 2)) : items;
+        const showStrongToggle = level === 'strong' && items.length > 2;
+        return (
+          <div key={level} className="space-y-4 min-w-0">
+            <div
+              className={`${m.c} text-white text-[10px] font-black p-3 rounded-lg text-center tracking-widest shadow-md`}
+            >
+              {m.t}
+            </div>
+            {items.length > 0 ? (
+              <>
+                {visibleStrong.map((item, i) => (
+                  <div
+                    key={`${level}-${item.yetkinlik}-${i}`}
+                    className="bg-white rounded-[6px] border border-[#E0E0E0] shadow-[0_1px_3px_rgba(0,0,0,0.05)] flex flex-col"
+                    style={{ borderLeft: `4px solid ${m.accent}` }}
+                  >
+                    <div className="p-5 flex flex-col flex-1 min-h-0">
+                      <div className="flex items-start gap-3">
+                        <span className="text-sm font-bold text-[#37474F] leading-snug pr-2">
+                          {formatTitle(item.yetkinlik)}
+                        </span>
+                      </div>
+                      <p className="text-[13px] leading-[1.5] text-[#455A64] mt-3 flex-1">{item.tavsiye}</p>
+                      {item.egitimler?.length > 0 ? (
+                        <div className="mt-4 pt-3 border-t border-[#ECEFF1]">
+                          <p className="text-[10px] font-bold uppercase tracking-wide text-[#546E7A] mb-2">
+                            Önerilen etkinlikler
+                          </p>
+                          <ul className="space-y-2.5">
+                            {item.egitimler.map((eg, ei) => (
+                              <li key={ei} className="text-[12px] leading-snug">
+                                {isActivityLink(eg.link) ? (
+                                  <a
+                                    href={eg.link.trim()}
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="font-semibold text-[#1A237E] hover:text-[#b71c1c] hover:underline break-words"
+                                  >
+                                    {eg.ad}
+                                  </a>
+                                ) : (
+                                  <span className="font-semibold text-[#37474F]">{eg.ad}</span>
+                                )}
+                                <span className="mt-0.5 block text-[11px] text-[#78909C]">
+                                  {[eg.kaynak, eg.lokasyon, eg.tarih].filter(Boolean).join(' · ')}
+                                </span>
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      ) : null}
+                      <div className="flex justify-end mt-4 pt-1">
+                        <span className="bg-[#F5F5F5] text-[#546E7A] text-[11px] font-semibold px-2 py-1 rounded-[2px]">
+                          Skor: {typeof item.skor === 'number' ? item.skor.toFixed(2) : item.skor}
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                ))}
+                {showStrongToggle ? (
+                  <button
+                    type="button"
+                    onClick={() => setStrongExpanded((v) => !v)}
+                    className="w-full py-2.5 px-3 text-xs font-bold text-[#2E7D32] bg-[#E8F5E9] hover:bg-[#C8E6C9] rounded-lg border border-[#A5D6A7] transition-colors"
+                  >
+                    {strongExpanded ? 'Daha az göster' : `${items.length - 2} güçlü yön daha göster`}
+                  </button>
+                ) : null}
+              </>
+            ) : (
+              <div className="text-center p-10 text-gray-300 text-xs italic border border-dashed rounded-xl">
+                Kayıt bulunamadı.
+              </div>
+            )}
+          </div>
+        );
+      })}
+    </div>
+  );
+}
+
 const App = () => {
   // --- AUTH STATES ---
   const [isLoggedIn, setIsLoggedIn] = useState(false);
   const [currentUser, setCurrentUser] = useState(null);
   const [loginForm, setLoginForm] = useState({ username: '', password: '' });
   const [loginError, setLoginError] = useState("");
+  const gapWrapRef = useRef(null);
+  const [gapTooltip, setGapTooltip] = useState(null);
 
   // --- DASHBOARD STATES ---
   const employeeList = useMemo(() => [...new Set(allData.map(d => d.employee_name))].sort(), []);
@@ -39,17 +138,42 @@ const App = () => {
 
   // --- HESAPLAMA MANTIKLARI ---
   const results = useMemo(() => calculateScores(allData, selectedUser), [selectedUser]);
-  const devPlan = useMemo(() => results ? generateDevelopmentPlan(results.summary) : [], [results]);
+  const devPlan = useMemo(
+    () => (results ? generateDevelopmentPlan(results.summary, results.questionScores || {}) : []),
+    [results]
+  );
 
   const userAvg = useMemo(() => {
     if (!results) return 0;
     const scores = Object.values(results.summary).map(Number);
     return (scores.reduce((a, b) => a + b, 0) / scores.length).toFixed(2);
   }, [results]);
-  const selfAvg = 3.1;
-  const companyAvg = 3.60;
-  const netDiff = (userAvg - companyAvg).toFixed(2);
+  const selfAvg = results?.selfAverage ?? '0.00';
+
+  const companyBenchmarks = useMemo(() => calculateCompanyBenchmarks(allData), []);
+  const companyAvg = companyBenchmarks.overallAverage;
+  const netDiff = (parseFloat(userAvg) - companyAvg).toFixed(2);
+
+  const radarRows = useMemo(() => {
+    if (!results) return [];
+    const gFallback = companyBenchmarks.overallAverage;
+    return Object.entries(results.summary).map(([k, v]) => ({
+      subject: formatTitle(k),
+      B: parseFloat(v),
+      G: companyBenchmarks.byCompetency[k] ?? gFallback,
+    }));
+  }, [results, companyBenchmarks]);
+
+  const gapPoints = useMemo(() => {
+    const b = parseFloat(userAvg);
+    const g = companyAvg;
+    return [
+      { key: 'G', label: 'Şirket (G)', x: g, y: 0.5, color: '#FF9800', value: g },
+      { key: 'B', label: 'Bireysel (B)', x: b, y: 0.5, color: '#1A237E', value: b },
+    ].filter((p) => Number.isFinite(p.x));
+  }, [userAvg, companyAvg]);
   const [isCollapsed, setIsCollapsed] = useState(false);
+
   // --- LOGIN HANDLER ---
   const handleLogin = (e) => {
     e.preventDefault();
@@ -67,10 +191,10 @@ const App = () => {
   // 1. GİRİŞ EKRANI (LOGIN)
   if (!isLoggedIn) {
     return (
-      <div className="h-screen flex items-center justify-center bg-[#1A237E]">
-        <form onSubmit={handleLogin} className="bg-white p-10 rounded-2xl shadow-2xl w-[400px] flex flex-col gap-5">
-          <img src="\logo_tusas.jpg" className="w-48 mx-auto mb-4" alt="TUSAŞ" />
-          <h2 className="text-2xl font-black text-center text-[#1A237E] mb-2">360° Değerlendirme Sistemi</h2>
+      <div className="min-h-screen flex items-center justify-center bg-[#1A237E] px-4 py-8">
+        <form onSubmit={handleLogin} className="bg-white p-6 sm:p-10 rounded-2xl shadow-2xl w-full max-w-md flex flex-col gap-5">
+          <img src="/logo_tusas.jpg" className="w-48 mx-auto mb-4" alt="TUSAŞ" />
+          <h2 className="t-title text-center mb-2">360° Değerlendirme Sistemi</h2>
           <input 
             type="text" placeholder="Kullanıcı Adı" required
             className="p-4 border border-gray-200 rounded-xl outline-none focus:ring-2 ring-[#b71c1c] transition-all"
@@ -92,10 +216,10 @@ const App = () => {
 
   // 2. RAPOR EKRANI (DASHBOARD)
   return (
-    <div className="min-h-screen flex bg-[#F8F9FA]">
+    <div className="min-h-screen flex flex-col lg:flex-row bg-[#F8F9FA]">
       
             {/* SIDEBAR */}
-      <aside className={`transition-all duration-300 ease-in-out bg-white border-r border-gray-200 flex flex-col sticky h-screen top-0 shadow-sm ${isCollapsed ? 'w-20' : 'w-80'}`}>
+      <aside className={`transition-all duration-300 ease-in-out bg-white border-b lg:border-b-0 lg:border-r border-gray-200 flex flex-col lg:sticky lg:top-0 lg:h-screen h-auto shrink-0 shadow-sm w-full ${isCollapsed ? 'lg:w-20' : 'lg:w-80'}`}>
         
         {/* Daraltma / Açma Butonu */}
         <button 
@@ -112,7 +236,7 @@ const App = () => {
         {/* LOGO ALANI */}
         <div className="p-6 border-b border-gray-50 flex justify-center">
           <img 
-            src="\logo_sidebar.png" 
+            src="/logo_sidebar.png" 
             alt="TUSAŞ" 
             className={`transition-all duration-300 ${isCollapsed ? 'w-10' : 'w-40'}`} 
           />
@@ -178,28 +302,28 @@ const App = () => {
       </aside>
 
       {/* ANA RAPOR ALANI */}
-      <main className="flex-1 p-12 max-w-7xl mx-auto overflow-y-auto">
+      <main className="flex-1 min-w-0 p-4 sm:p-6 lg:p-12 max-w-7xl mx-auto w-full overflow-y-auto">
         
         {/* HEADER */}
-        <header className="bg-[#1A237E] p-10 rounded-2xl shadow-xl border-b-[10px] border-[#b71c1c] text-white mb-10 relative overflow-hidden">
+        <header className="bg-[#1A237E] p-6 sm:p-10 rounded-2xl shadow-xl border-b-[10px] border-[#b71c1c] text-white mb-6 sm:mb-10 relative overflow-hidden">
           <div className="relative z-10">
-            <h1 className="text-3xl font-black tracking-tighter uppercase">360° DEĞERLENDİRME</h1>
+            <h1 className="text-xl sm:text-3xl font-black tracking-tighter uppercase leading-tight">360° DEĞERLENDİRME</h1>
             <p className="text-sm opacity-80 mt-2 font-medium">TUSAŞ Performans Değerlendirme Sistemi | {results.details.yaka.replace('_', ' ').toUpperCase()}</p>
           </div>
           <div className="absolute top-0 right-0 w-64 h-full bg-white opacity-5 skew-x-[-20deg] translate-x-32"></div>
         </header>
 
         {/* PROFIL & BİLGİ KISMI - BU KODU KOPYALAYIP YAPIŞTIR */}
-        <div className="grid grid-cols-1 lg:grid-cols-[1fr,2fr] gap-8 mb-10 items-start">
+        <div className="grid grid-cols-1 lg:grid-cols-[1fr,2fr] gap-6 lg:gap-8 mb-8 lg:mb-10 items-start">
           
           {/* Profil Kartı (Aynı Kaldı) */}
-          <div className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 flex items-center gap-6 h-full">
+          <div className="bg-white p-6 sm:p-8 rounded-2xl shadow-sm border border-gray-100 flex flex-col sm:flex-row items-center gap-6 h-full text-center sm:text-left">
             <div className="w-20 h-20 rounded-full bg-[#E8EAF6] border-4 border-[#C5CAE9] flex items-center justify-center text-[#1A237E] text-3xl font-black shrink-0">
               {selectedUser.split(' ').map(n => n[0]).join('')}
             </div>
             <div>
               <h2 className="text-2xl font-black text-[#263238] leading-tight">{selectedUser}</h2>
-              <p className="text-blue-600 text-xs font-bold tracking-widest uppercase mt-1">{results.details.role}</p>
+              <p className="t-label text-blue-600 mt-1">{results.details.role}</p>
             </div>
           </div>
 
@@ -256,15 +380,15 @@ const App = () => {
         </div>
 
         {/* OKUMA KILAVUZU */}
-        <section className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 mb-10">
-           <h3 className="text-sm font-black text-[#1A237E] mb-6 uppercase tracking-wider">Okuma Kılavuzu</h3>
-           <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
+        <section className="bg-white p-5 sm:p-8 rounded-2xl shadow-sm border border-gray-100 mb-8 sm:mb-10">
+           <h3 className="t-section-title mb-6 uppercase">Okuma Kılavuzu</h3>
+           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-10">
               <div className="space-y-3">
                  <div className="flex items-center gap-3 text-[11px] font-bold"><span className="w-3 h-3 rounded-full bg-[#EF5350]"></span> 1.0 - 2.9: Gelişim Gerektiren Alan</div>
                  <div className="flex items-center gap-3 text-[11px] font-bold"><span className="w-3 h-3 rounded-full bg-[#FFA726]"></span> 3.0 - 3.4: İyileştirme</div>
                  <div className="flex items-center gap-3 text-[11px] font-bold"><span className="w-3 h-3 rounded-full bg-[#66BB6A]"></span> 3.5 - 5.0: Güçlü Yön </div>
               </div>
-              <div className="border-l border-gray-100 pl-10 space-y-2 text-[11px] text-gray-500">
+              <div className="md:border-l md:border-gray-100 md:pl-10 pt-4 md:pt-0 border-t md:border-t-0 border-gray-100 space-y-2 t-caption">
                  <p><b>B (Bireysel):</b> Sizin aldığınız puan.</p>
                  <p><b>G (Genel):</b> Şirket genel ortalaması.</p>
                  <p><b>Odak Alanı:</b> İyileştirilmesi gereken en spesifik nokta.</p>
@@ -275,7 +399,7 @@ const App = () => {
         {/* PERFORMANS ÖZETİ */}
         <h3 className="section-header uppercase">Performans Özeti</h3>
                 {/* GAP ANALİZ BARI */}
-        <div className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 mb-6 h-48 overflow-hidden">
+        <div className="bg-white p-5 sm:p-6 rounded-2xl shadow-sm border border-gray-100 mb-6 min-h-[12rem] sm:h-48 sm:overflow-hidden sm:min-h-0">
             <h3 className="text-sm font-extrabold text-[#1A237E] mb-5 flex items-center gap-3">
                 <span className="w-2 h-2 rounded-full bg-[#5C6BC0]"></span>
                 Bu GAP Analiz Barı Ne Sunmaktadır?
@@ -291,72 +415,199 @@ const App = () => {
    
             </div>  
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-3 sm:gap-6 mb-8">
           <div className="fark-box">
-            <p className="text-[10px] font-black text-gray-400 uppercase mb-2">Öz Değerlendirme</p>
+            <p className="t-label mb-2">Öz Değerlendirme</p>
             <p className="text-4xl font-black text-gray-600">{selfAvg}</p>
           </div>
           <div className="fark-box">
-            <p className="text-[10px] font-black text-gray-400 uppercase mb-2">Bireysel Skor</p>
+            <p className="t-label mb-2">Bireysel Skor</p>
             <p className="text-4xl font-black text-[#1A237E]">{userAvg}</p>
           </div>
           <div className="fark-box">
-            <p className="text-[10px] font-black text-gray-400 uppercase mb-2">Şirket Ortalaması</p>
+            <p className="t-label mb-2">Şirket Ortalaması</p>
             <p className="text-4xl font-black text-[#FF9800] ">{companyAvg.toFixed(2)}</p>
           </div>
           <div className="fark-box">
-            <p className="text-[10px] font-black text-gray-400 uppercase mb-2">Net Fark</p>
+            <p className="t-label mb-2">Net Fark</p>
             <p className={`text-4xl font-black ${netDiff >= 0 ? 'text-green-600' : 'text-red-600'}`}>{netDiff >= 0 ? `+${netDiff}` : netDiff}</p>
           </div>
         </div>
 
         {/* GAP ANALİZ BARI */}
-        <div className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 mb-12 h-24 overflow-hidden">
-          <ResponsiveContainer width="100%" height="100%">
-            <BarChart layout="vertical" data={[{name: 'Gap', B: parseFloat(userAvg), G: companyAvg}]} margin={{left: -40, right: 20}}>
-              <XAxis type="number" domain={[0, 5]} hide />
-              <YAxis type="category" dataKey="name" hide />
-              <Legend verticalAlign="top" height={36} wrapperStyle={{fontSize: 10, fontWeight: 900}} />
-              <Bar name="Şirket Ortalaması (G)" dataKey="G" stackId="a" fill="#FF9800" barSize={30} radius={[15, 0, 0, 15]} />
-              <Bar name="Bireysel Skor (B)" dataKey="B" stackId="a" fill="#1A237E" barSize={30} radius={[0, 15, 15, 0]} />
-            </BarChart>
-          </ResponsiveContainer>
+        <div className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 mb-12">
+          <div className="flex flex-wrap items-center justify-between gap-3 mb-3">
+            <div className="flex items-center gap-4 t-mini font-extrabold">
+              <span className="inline-flex items-center gap-2 text-[#1A237E]">
+                <span className="w-2.5 h-2.5 rounded-full bg-[#1A237E]"></span>
+                Bireysel (B): <span className="tabular-nums">{userAvg}</span>
+              </span>
+              <span className="inline-flex items-center gap-2 text-[#FF9800]">
+                <span className="w-2.5 h-2.5 rounded-full bg-[#FF9800]"></span>
+                Şirket (G): <span className="tabular-nums">{companyAvg.toFixed(2)}</span>
+              </span>
+            </div>
+          </div>
+
+          <div ref={gapWrapRef} className="h-28 relative">
+            <ResponsiveContainer width="100%" height="100%">
+              <ComposedChart
+                layout="vertical"
+                data={[{ name: 'scale', full: 5 }]}
+                margin={{ left: 0, right: 14, top: 26, bottom: 18 }}
+              >
+                <XAxis
+                  xAxisId="gapX"
+                  type="number"
+                  dataKey="x"
+                  domain={[0, 5]}
+                  ticks={[0, 1, 2, 3, 3.5, 4, 5]}
+                  tick={{ fontSize: 12, fontWeight: 900, fill: '#546E7A' }}
+                  axisLine={{ stroke: '#CFD8DC' }}
+                  tickLine={{ stroke: '#CFD8DC' }}
+                  tickMargin={10}
+                  tickFormatter={(v) => (Number.isFinite(v) ? (v === 3.5 ? '3.5' : String(v)) : '')}
+                />
+                <YAxis yAxisId="gapBarY" type="category" dataKey="name" hide />
+                <YAxis yAxisId="gapDotY" type="number" dataKey="y" domain={[0, 1]} hide allowDataOverflow />
+
+                <Bar
+                  xAxisId="gapX"
+                  yAxisId="gapBarY"
+                  dataKey="full"
+                  fill="#ECEFF1"
+                  barSize={26}
+                  radius={[14, 14, 14, 14]}
+                />
+
+                <Scatter
+                  xAxisId="gapX"
+                  yAxisId="gapDotY"
+                  data={gapPoints}
+                  isAnimationActive={false}
+                  shape={(props) => {
+                    const { cx, cy, payload } = props;
+                    if (!Number.isFinite(cx) || !Number.isFinite(cy)) return null;
+                    const r = 16;
+                    return (
+                      <g>
+                        <circle
+                          cx={cx}
+                          cy={cy}
+                          r={r}
+                          fill={payload.color}
+                          stroke="#FFFFFF"
+                          strokeWidth={4}
+                          onMouseEnter={() => {
+                            setGapTooltip({
+                              cx,
+                              cy,
+                              label: payload.label,
+                              color: payload.color,
+                              value: payload.value,
+                            });
+                          }}
+                          onMouseLeave={() => setGapTooltip(null)}
+                        />
+                        <text
+                          x={cx}
+                          y={cy - r - 6}
+                          textAnchor="middle"
+                          fill={payload.color}
+                          fontSize={12}
+                          fontWeight={900}
+                        >
+                          {payload.key}
+                        </text>
+                      </g>
+                    );
+                  }}
+                />
+              </ComposedChart>
+            </ResponsiveContainer>
+
+            {gapTooltip ? (
+              <div
+                className="pointer-events-none absolute z-20"
+                style={{
+                  left: gapTooltip.cx,
+                  top: Math.max(0, gapTooltip.cy - 48),
+                  transform: 'translate(-50%, -100%)',
+                }}
+              >
+                <div className="relative bg-white border border-gray-200 shadow-xl rounded-xl px-3 py-2 text-xs font-extrabold text-gray-800">
+                  <div className="flex items-center gap-2">
+                    <span
+                      className="w-2.5 h-2.5 rounded-full"
+                      style={{ backgroundColor: gapTooltip.color }}
+                    />
+                    <span className="whitespace-nowrap">{gapTooltip.label}</span>
+                    <span className="ml-1 tabular-nums text-gray-950">
+                      {Number.isFinite(gapTooltip.value) ? gapTooltip.value.toFixed(2) : String(gapTooltip.value ?? '')}
+                    </span>
+                  </div>
+                  <div
+                    className="absolute left-1/2 -bottom-1.5 w-3 h-3 bg-white border-r border-b border-gray-200"
+                    style={{ transform: 'translateX(-50%) rotate(45deg)' }}
+                  />
+                </div>
+              </div>
+            ) : null}
+          </div>
         </div>
 
         {/* YETKİNLİK ANALİZİ */}
         <h3 className="section-header uppercase">Yetkinlik Analizi</h3>
-          <div className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 mb-4 h-24 overflow-hidden">
-            <h3 className="text-sm font-extrabold text-[#1A237E] mb-3 flex items-center gap-3">
+          <div className="bg-white p-5 sm:p-6 rounded-2xl shadow-sm border border-gray-100 mb-4">
+            <h3 className="t-section-title mb-3 flex items-center gap-3">
                 <span className="w-2 h-2 rounded-full bg-[#5C6BC0]"></span>
                 Bu Radar Grafik Ne Sunmaktadır?
             </h3>
-            <div className='text-sm mb-6'>
-              <p>Radar grafik, çalışanın mevcut yetkinlik düzeyini şirket ortalamasıyla aynı düzlemde kıyaslayarak, güçlü yanlarını ve gelişim odaklı açık noktalarını tek bir görsel üzerinden raporlar.</p>
-            </div>  
+            <div className="t-body">
+              <p>
+                Radar grafik, çalışanın mevcut yetkinlik düzeyini şirket ortalamasıyla aynı düzlemde kıyaslayarak,
+                güçlü yanlarını ve gelişim odaklı açık noktalarını tek bir görsel üzerinden raporlar.
+              </p>
+            </div>
           </div>
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 bg-white p-10 rounded-2xl shadow-sm border border-gray-100 mb-12">
-          <div className="h-[450px]">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:gap-10 bg-white p-5 sm:p-10 rounded-2xl shadow-sm border border-gray-100 mb-8 lg:mb-12">
+          <div className="h-[300px] sm:h-[450px] w-full min-h-[260px]">
             <ResponsiveContainer width="100%" height="100%">
-              <RadarChart data={Object.entries(results.summary).map(([k, v]) => ({ subject: formatTitle(k), B: parseFloat(v), G: 3.5 }))}>
-                <PolarGrid stroke="#90A4AE" />
+              <RadarChart data={radarRows}>
+                <PolarGrid stroke="#B0BEC5" />
                 <PolarAngleAxis dataKey="subject" tick={{ fontSize: 9, fill: '#1A237E', fontWeight: 900 }} />
                 <Legend wrapperStyle={{fontSize: 10, fontWeight: 900, paddingTop: 20}} />
-                <Radar name="Şirket Ortalaması (G)" dataKey="G" stroke="#90A4AE" strokeDasharray="4 4" fill="#90A4AE" fillOpacity={0.1} />
-                <Radar name="Bireysel Skor (B)" dataKey="B" stroke="#1A237E" strokeWidth={4} fill="#1A237E" fillOpacity={0.5} />
+                <Radar
+                  name="Şirket Ortalaması (G)"
+                  dataKey="G"
+                  stroke="#546E7A"
+                  strokeWidth={2}
+                  strokeDasharray="4 4"
+                  fill="#78909C"
+                  fillOpacity={0.38}
+                />
+                <Radar
+                  name="Bireysel Skor (B)"
+                  dataKey="B"
+                  stroke="#0D47A1"
+                  strokeWidth={3}
+                  fill="#1A237E"
+                  fillOpacity={0.78}
+                />
                 <Tooltip />
               </RadarChart>
             </ResponsiveContainer>
           </div>
           
-          <div className="flex flex-col justify-center space-y-4">
-             <h4 className="text-[10px] font-black text-gray-400 uppercase italic border-b pb-2">Detaylı Puan Dağılımı</h4>
+          <div className="flex flex-col justify-center space-y-4 min-w-0">
+             <h4 className="t-label uppercase border-b pb-2">Detaylı Puan Dağılımı</h4>
              {Object.entries(results.summary).sort((a,b) => b[1] - a[1]).map(([k,v]) => (
-               <div key={k} className="grid grid-cols-[1fr,2fr,auto] items-center gap-4 text-[11px]">
-                  <span className="font-bold text-gray-700">{formatTitle(k)}</span>
-                  <div className="h-2 bg-gray-100 rounded-full overflow-hidden">
+               <div key={k} className="grid grid-cols-1 sm:grid-cols-[minmax(0,1fr)_minmax(0,2fr)_auto] items-center gap-2 sm:gap-4 text-[11px]">
+                  <span className="font-bold text-gray-700 min-w-0 truncate sm:whitespace-normal">{formatTitle(k)}</span>
+                  <div className="h-2 bg-gray-100 rounded-full overflow-hidden min-w-0">
                      <div className={`h-full ${v >= 3.5 ? 'bg-[#66BB6A]' : v >= 3.0 ? 'bg-[#FFA726]' : 'bg-[#EF5350]'}`} style={{width: `${(v/5)*100}%`}}></div>
                   </div>
-                  <span className="font-black text-[#1A237E]">{v}</span>
+                  <span className="font-black text-[#1A237E] tabular-nums sm:text-right">{v}</span>
                </div>
              ))}
           </div>
@@ -372,11 +623,12 @@ const App = () => {
               <p>Detaylı Kırılım Isı Haritası, çalışanın her bir yetkinlik alanındaki performansını puan bazlı renk kodlarıyla görselleştirerek, şirket ortalamasına göre hangi noktalarda tam uyum sağladığını veya gelişim göstermesi gerektiğini tek bir tabloda sunar.</p>
             </div>  
           </div>
-        <div className="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden flex items-stretch">
+        <div className="bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden flex flex-col xl:flex-row items-stretch">
 
             
             {/* TABLO BÖLÜMÜ */}
-            <table className="flex-1 text-xs border-separate border-spacing-1 p-6">
+            <div className="flex-1 min-w-0 overflow-x-auto">
+            <table className="w-full min-w-[520px] text-xs border-separate border-spacing-1 p-4 sm:p-6">
                 <thead>
                     <tr className="text-[10px] text-gray-400 font-black uppercase text-center">
                         <th className="p-3 text-left">Yetkinlik Alanı</th>
@@ -392,14 +644,19 @@ const App = () => {
                             {/* Önemli: Gerçek renk mantığı val değişkenine göre belirlenmeli, aşağıdaki manuel renkler sadece örnek */}
                             <td className={`p-4 font-black text-white ${val >= 3.5 ? 'bg-[#66BB6A]' : val >= 3.0 ? 'bg-[#FFA726]' : 'bg-[#EF5350]'}`}>{val}</td>
                             <td className={`p-4 font-black text-white ${parseFloat(val - 0.2) >= 3.5 ? 'bg-[#66BB6A]' : parseFloat(val - 0.2) >= 3.0 ? 'bg-[#FFA726]' : 'bg-[#EF5350]'}`}>{parseFloat(val - 0.2).toFixed(1)}</td>
-                            <td className="p-4 bg-gray-100 font-bold text-gray-500 italic">3.6</td>
+                            <td className="p-4 bg-gray-100 font-bold text-gray-600 tabular-nums">
+                              {companyBenchmarks.byCompetency[comp] != null
+                                ? companyBenchmarks.byCompetency[comp].toFixed(2)
+                                : '—'}
+                            </td>
                         </tr>
                     ))}
                 </tbody>
             </table>
+            </div>
 
             {/* SAĞ TARAF: OKUMA KILAVUZU + DİKEY BAR */}
-            <div className="flex border-l border-gray-100 bg-gray-50">
+            <div className="flex border-t xl:border-t-0 xl:border-l border-gray-100 bg-gray-50 shrink-0">
                 
                 {/* YENİ EKLENEN: OKUMA KILAVUZU (YATAYDAN DİKEYE) */}
                 <div className="p-8 flex flex-col justify-center gap-3 text-xs border-r border-gray-100 min-w-[160px]">
@@ -433,33 +690,7 @@ const App = () => {
 
         {/* STRATEJİK GELİŞİM PLANI */}
         <h3 className="section-header uppercase">Stratejik Gelişim Planı</h3>
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          {['weak', 'medium', 'strong'].map(level => {
-            const items = devPlan.filter(p => p.seviye === level);
-            const m = { 
-              weak: { t: "ÖNCELİKLİ GELİŞİM", c: "bg-[#C62828]", b: "border-t-[#C62828]" },
-              medium: { t: "İYİLEŞTİRME", c: "bg-[#EF6C00]", b: "border-t-[#EF6C00]" },
-              strong: { t: "GÜÇLÜ YÖNLER", c: "bg-[#2E7D32]", b: "border-t-[#2E7D32]" }
-            }[level];
-            return (
-              <div key={level} className="space-y-4">
-                <div className={`${m.c} text-white text-[10px] font-black p-3 rounded-lg text-center tracking-widest shadow-md`}>{m.t}</div>
-                {items.length > 0 ? items.map((item, i) => (
-                  <div key={i} className={`bg-white p-6 rounded-xl shadow-sm border border-gray-100 border-t-4 ${m.b}`}>
-                    <div className="flex justify-between items-start mb-4 border-b border-gray-50 pb-2">
-                       <span className="text-[11px] font-black text-[#1A237E]">{formatTitle(item.yetkinlik)}</span>
-                       <span className={`text-[8px] font-bold px-1.5 py-0.5 rounded text-white ${m.c}`}>SKOR: {item.skor}</span>
-                    </div>
-                    <p className="text-[11px] text-gray-600 italic leading-relaxed mb-4">"{item.tavsiye}"</p>
-                    <div className="flex justify-between items-center">
-                       <span className="text-[9px] font-black bg-blue-50 text-blue-700 px-2 py-1 rounded uppercase tracking-tighter">{item.odakAlani}</span>
-                    </div>
-                  </div>
-                )) : <div className="text-center p-10 text-gray-300 text-xs italic border border-dashed rounded-xl">Kayıt bulunamadı.</div>}
-              </div>
-            );
-          })}
-        </div>
+        <StrategicDevelopmentPlan key={selectedUser} devPlan={devPlan} />
 
       </main>
     </div>
