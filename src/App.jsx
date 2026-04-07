@@ -167,11 +167,14 @@ const App = () => {
   const gapPoints = useMemo(() => {
     const b = parseFloat(userAvg);
     const g = companyAvg;
+    const o = parseFloat(selfAvg);
     return [
+      { key: 'Ö', label: 'Öz Değerlendirme (Ö)', x: o, y: 0.5, color: '#303132', value: o },
       { key: 'G', label: 'Şirket (G)', x: g, y: 0.5, color: '#FF9800', value: g },
       { key: 'B', label: 'Bireysel (B)', x: b, y: 0.5, color: '#1A237E', value: b },
+      
     ].filter((p) => Number.isFinite(p.x));
-  }, [userAvg, companyAvg]);
+  }, [selfAvg, companyAvg, userAvg]);
   const [isCollapsed, setIsCollapsed] = useState(false);
 
   // --- LOGIN HANDLER ---
@@ -438,6 +441,10 @@ const App = () => {
         <div className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 mb-12">
           <div className="flex flex-wrap items-center justify-between gap-3 mb-3">
             <div className="flex items-center gap-4 t-mini font-extrabold">
+              <span className="inline-flex items-center gap-2 text-gray-600">
+                <span className="w-2.5 h-2.5 rounded-full bg-gray-600"></span>
+                Öz Değerlendirme (Ö): <span className="tabular-nums">{selfAvg}</span>
+              </span>
               <span className="inline-flex items-center gap-2 text-[#1A237E]">
                 <span className="w-2.5 h-2.5 rounded-full bg-[#1A237E]"></span>
                 Bireysel (B): <span className="tabular-nums">{userAvg}</span>
@@ -489,13 +496,14 @@ const App = () => {
                     const { cx, cy, payload } = props;
                     if (!Number.isFinite(cx) || !Number.isFinite(cy)) return null;
                     const r = 16;
+                    const circleColor = payload.color || '#696c70';
                     return (
                       <g>
                         <circle
                           cx={cx}
                           cy={cy}
                           r={r}
-                          fill={payload.color}
+                          fill={circleColor}
                           stroke="#FFFFFF"
                           strokeWidth={4}
                           onMouseEnter={() => {
@@ -503,7 +511,7 @@ const App = () => {
                               cx,
                               cy,
                               label: payload.label,
-                              color: payload.color,
+                              color: circleColor.color,
                               value: payload.value,
                             });
                           }}
@@ -513,7 +521,7 @@ const App = () => {
                           x={cx}
                           y={cy - r - 6}
                           textAnchor="middle"
-                          fill={payload.color}
+                          fill={circleColor.color}
                           fontSize={12}
                           fontWeight={900}
                         >
